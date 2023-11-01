@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ParserShengLi.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ParserShengLi.h" />
+    <ClInclude Include="..\API\ShengLiFPGA_API_SZE3.2_SSE4.3_25436\include\efh_lev2_define.h">
+      <Filter>fpga</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\ShengLiFPGA_API_SZE3.2_SSE4.3_25436\include\i_efh_sse_lev2_api.h">
+      <Filter>fpga</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\ShengLiFPGA_API_SZE3.2_SSE4.3_25436\include\i_efh_sze_lev2_api.h">
+      <Filter>fpga</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\ShengLiFPGA_API_SZE3.2_SSE4.3_25436\include\sse_hpf_define.h">
+      <Filter>fpga</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\ShengLiFPGA_API_SZE3.2_SSE4.3_25436\include\sze_hpf_define.h">
+      <Filter>fpga</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="fpga">
+      <UniqueIdentifier>{9db65cd4-e978-438f-930f-8f6b8e69d37d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

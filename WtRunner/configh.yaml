@@ -1,0 +1,33 @@
+basefiles:
+    session: ./common/sessions.json
+    commodity: ./common/commodities.json
+    contract: ./common/contracts.json
+    holiday: ./common/holidays.json
+    hot: ./common/hots.json
+    utf-8: true
+env:
+    name: hft		    # 确定交易引擎类型
+    mode: product
+    filters: filters.yaml
+    fees: ./common/fees.json
+    product: 
+        session: FD0100   	# 为时间步进器提供
+bspolicy: actpolicy.yaml
+data:
+    store:
+        path: ../Storage    # 确保和WtDtPorter一致
+strategies:
+    hft:
+    -   active: true
+        id: hft_demo
+        name: WtHftStraFact.SimpleHft
+        params:
+            code: CFFEX.IC.2312
+            count: 10
+            second: 10
+            offset: 1
+            count: 50
+            stock: false
+        trader: simnow
+traders:tdtraders.yaml
+parsers:tdparsers.yaml

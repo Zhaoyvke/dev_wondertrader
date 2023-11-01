@@ -1,0 +1,5622 @@
+{
+    "SSE": {
+        "510010": {
+            "name": "交银上证180公司治理ETF",
+            "code": "510010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510020": {
+            "name": "博时上证超大盘ETF",
+            "code": "510020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510030": {
+            "name": "上证180价值ETF",
+            "code": "510030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510050": {
+            "name": "华夏上证50ETF",
+            "code": "510050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510060": {
+            "name": "工银上证央企ETF",
+            "code": "510060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510070": {
+            "name": "民企ETF",
+            "code": "510070",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510090": {
+            "name": "建信上证社会责任ETF",
+            "code": "510090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510100": {
+            "name": "易方达上证50ETF",
+            "code": "510100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510110": {
+            "name": "海富通上证周期ETF",
+            "code": "510110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510120": {
+            "name": "海富通上证非周期ETF",
+            "code": "510120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510130": {
+            "name": "易方达上证中盘ETF",
+            "code": "510130",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510150": {
+            "name": "招商上证消费80ETF",
+            "code": "510150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510160": {
+            "name": "南方中证小康产业ETF",
+            "code": "510160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510170": {
+            "name": "国联安上证商品ETF",
+            "code": "510170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510180": {
+            "name": "华安上证180ETF",
+            "code": "510180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510190": {
+            "name": "华安上证50ETF",
+            "code": "510190",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510200": {
+            "name": "上证券商",
+            "code": "510200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510210": {
+            "name": "上证综指ETF",
+            "code": "510210",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510220": {
+            "name": "华泰柏瑞上证中小盘ETF",
+            "code": "510220",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510230": {
+            "name": "国泰上证180金融ETF",
+            "code": "510230",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510260": {
+            "name": "诺安上证新兴产业ETF",
+            "code": "510260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510270": {
+            "name": "国企ETF",
+            "code": "510270",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510280": {
+            "name": "上证180成长ETF",
+            "code": "510280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510290": {
+            "name": "南方上证380ETF",
+            "code": "510290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510300": {
+            "name": "华泰柏瑞沪深300ETF",
+            "code": "510300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510310": {
+            "name": "易方达沪深300ETF发起式",
+            "code": "510310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510330": {
+            "name": "华夏沪深300ETF",
+            "code": "510330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510350": {
+            "name": "工银沪深300ETF",
+            "code": "510350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510360": {
+            "name": "广发沪深300ETF",
+            "code": "510360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510370": {
+            "name": "300指数ETF",
+            "code": "510370",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510380": {
+            "name": "国寿安保沪深300ETF",
+            "code": "510380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510390": {
+            "name": "平安沪深300ETF",
+            "code": "510390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510410": {
+            "name": "博时上证自然资源ETF",
+            "code": "510410",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510420": {
+            "name": "180ETF",
+            "code": "510420",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510430": {
+            "name": "银华上证50等权ETF",
+            "code": "510430",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510440": {
+            "name": "中证500沪市ETF",
+            "code": "510440",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510450": {
+            "name": "上证180高贝塔ETF",
+            "code": "510450",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510500": {
+            "name": "南方中证500ETF",
+            "code": "510500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510510": {
+            "name": "广发中证500ETF",
+            "code": "510510",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510520": {
+            "name": "诺安中证500ETF",
+            "code": "510520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510530": {
+            "name": "工银中证500ETF",
+            "code": "510530",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510550": {
+            "name": "方正富邦中证500ETF",
+            "code": "510550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510560": {
+            "name": "国寿安保中证500ETF",
+            "code": "510560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510570": {
+            "name": "兴业中证500ETF",
+            "code": "510570",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510580": {
+            "name": "易方达中证500ETF",
+            "code": "510580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510590": {
+            "name": "平安中证500ETF",
+            "code": "510590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510600": {
+            "name": "申万菱信上证50交易型开放式指数发起式",
+            "code": "510600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510610": {
+            "name": "华夏能源ETF",
+            "code": "510610",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510620": {
+            "name": "华夏材料ETF",
+            "code": "510620",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510630": {
+            "name": "华夏消费ETF",
+            "code": "510630",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510650": {
+            "name": "华夏金融ETF",
+            "code": "510650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510660": {
+            "name": "华夏医药ETF",
+            "code": "510660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510680": {
+            "name": "万家上证50ETF",
+            "code": "510680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510690": {
+            "name": "兴业金融ETF",
+            "code": "510690",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510700": {
+            "name": "长盛上证市值百强(ETF)",
+            "code": "510700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510710": {
+            "name": "博时上证50ETF",
+            "code": "510710",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510760": {
+            "name": "国泰上证综合ETF",
+            "code": "510760",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510770": {
+            "name": "申万菱信上证G60战略新兴产业成份ETF",
+            "code": "510770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510800": {
+            "name": "建信上证50ETF",
+            "code": "510800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510810": {
+            "name": "中证上海国企ETF",
+            "code": "510810",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510820": {
+            "name": "上证上海改革发展主题ETF",
+            "code": "510820",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510850": {
+            "name": "工银上证50ETF",
+            "code": "510850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510860": {
+            "name": "兴业上证50ETF",
+            "code": "510860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510880": {
+            "name": "华泰柏瑞上证红利ETF",
+            "code": "510880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510890": {
+            "name": "红利低波ETF",
+            "code": "510890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510900": {
+            "name": "易方达恒生国企(QDII-ETF)",
+            "code": "510900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "510990": {
+            "name": "180ESGETF",
+            "code": "510990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511000": {
+            "name": "招商中债-0-3年长三角地方债ETF",
+            "code": "511000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511010": {
+            "name": "国泰上证5年期国债ETF",
+            "code": "511010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511020": {
+            "name": "平安5-10年期国债活跃券ETF",
+            "code": "511020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511030": {
+            "name": "平安中高等级公司债利差因子ETF",
+            "code": "511030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511050": {
+            "name": "地方债ETF",
+            "code": "511050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511060": {
+            "name": "海富通上证5年期地方政府债ETF",
+            "code": "511060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511090": {
+            "name": "鹏扬中债-30年期国债ETF",
+            "code": "511090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511180": {
+            "name": "海富通上证投资级可转债ETF",
+            "code": "511180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511210": {
+            "name": "上证企业债30ETF",
+            "code": "511210",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511220": {
+            "name": "海富通上证城投债ETF",
+            "code": "511220",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511230": {
+            "name": "海富通上证周期产业债ETF",
+            "code": "511230",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511260": {
+            "name": "上证10年期国债ETF",
+            "code": "511260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511270": {
+            "name": "海富通上证10年期地方政府债ETF",
+            "code": "511270",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511280": {
+            "name": "华夏3-5年中高级可质押信用债ETF",
+            "code": "511280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511290": {
+            "name": "广发上证10年期国债ETF",
+            "code": "511290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511310": {
+            "name": "富国中证10年期国债ETF",
+            "code": "511310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511360": {
+            "name": "海富通中证短融ETF",
+            "code": "511360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511380": {
+            "name": "博时可转债ETF",
+            "code": "511380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511520": {
+            "name": "富国中债7-10年政策性金融债ETF",
+            "code": "511520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511580": {
+            "name": "招商中证政策性金融债3-5年ETF",
+            "code": "511580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511600": {
+            "name": "华安日日鑫货币H",
+            "code": "511600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511620": {
+            "name": "国泰瞬利货币A",
+            "code": "511620",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511650": {
+            "name": "华夏快线货币E",
+            "code": "511650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511660": {
+            "name": "建信现金添益货币H",
+            "code": "511660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511670": {
+            "name": "华泰紫金天天金货币ETFA",
+            "code": "511670",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511680": {
+            "name": "安信货币",
+            "code": "511680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511690": {
+            "name": "交易货币",
+            "code": "511690",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511700": {
+            "name": "场内货币",
+            "code": "511700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511760": {
+            "name": "德邦货币",
+            "code": "511760",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511770": {
+            "name": "金鹰现金增益E",
+            "code": "511770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511800": {
+            "name": "易方达货币E",
+            "code": "511800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511810": {
+            "name": "南方理财金货币ETF",
+            "code": "511810",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511820": {
+            "name": "鹏华添利交易型货币B",
+            "code": "511820",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511830": {
+            "name": "华泰货币",
+            "code": "511830",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511850": {
+            "name": "财富宝E",
+            "code": "511850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511860": {
+            "name": "博时保证金货币ETF",
+            "code": "511860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511880": {
+            "name": "银华日利A",
+            "code": "511880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511890": {
+            "name": "景顺长城货币ETF",
+            "code": "511890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511900": {
+            "name": "富国收益宝交易型货币H",
+            "code": "511900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511910": {
+            "name": "融通易支付货币E",
+            "code": "511910",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511920": {
+            "name": "广发货币E",
+            "code": "511920",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511930": {
+            "name": "中融日盈A",
+            "code": "511930",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511950": {
+            "name": "广发添利货币A",
+            "code": "511950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511960": {
+            "name": "嘉实快线货币H",
+            "code": "511960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511970": {
+            "name": "国寿安保货币E",
+            "code": "511970",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511980": {
+            "name": "汇添富添富通货币E",
+            "code": "511980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "511990": {
+            "name": "华宝添益A",
+            "code": "511990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512000": {
+            "name": "华宝中证全指证券公司ETF",
+            "code": "512000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512010": {
+            "name": "易方达沪深300医药ETF",
+            "code": "512010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512040": {
+            "name": "富国中证价值ETF",
+            "code": "512040",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512070": {
+            "name": "易方达沪深300非银ETF",
+            "code": "512070",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512090": {
+            "name": "易方达MSCI中国A股国际通ETF",
+            "code": "512090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512100": {
+            "name": "南方中证1000ETF",
+            "code": "512100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512110": {
+            "name": "华安中证细分地产ETF",
+            "code": "512110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512120": {
+            "name": "华安中证细分医药ETF",
+            "code": "512120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512150": {
+            "name": "A50ETF",
+            "code": "512150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512160": {
+            "name": "南方MSCI中国A股国际通ETF",
+            "code": "512160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512170": {
+            "name": "华宝中证医疗ETF",
+            "code": "512170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512180": {
+            "name": "建信MSCI中国A股国际通ETF",
+            "code": "512180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512190": {
+            "name": "之江凤凰",
+            "code": "512190",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512200": {
+            "name": "南方中证全指房地产ETF",
+            "code": "512200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512210": {
+            "name": "景顺长城中证800食品饮料ETF",
+            "code": "512210",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512220": {
+            "name": "景顺长城中证科技传媒通信150ETF",
+            "code": "512220",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512230": {
+            "name": "景顺长城中证医药卫生ETF",
+            "code": "512230",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512260": {
+            "name": "华安中证500低波ETF",
+            "code": "512260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512270": {
+            "name": "华安沪深300低波ETF",
+            "code": "512270",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512280": {
+            "name": "景顺长城MSCI中国A股国际通ETF",
+            "code": "512280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512290": {
+            "name": "国泰中证生物医药ETF",
+            "code": "512290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512300": {
+            "name": "南方中证500医药卫生ETF",
+            "code": "512300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512310": {
+            "name": "南方中证500工业ETF",
+            "code": "512310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512320": {
+            "name": "工银MSCI中国ETF",
+            "code": "512320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512330": {
+            "name": "南方中证500信息技术ETF",
+            "code": "512330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512340": {
+            "name": "南方中证500原材料ETF",
+            "code": "512340",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512350": {
+            "name": "福建ETF",
+            "code": "512350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512360": {
+            "name": "平安MSCI中国A股国际ETF",
+            "code": "512360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512380": {
+            "name": "MSCI中国",
+            "code": "512380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512390": {
+            "name": "平安MSCI中国A股低波动ETF",
+            "code": "512390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512400": {
+            "name": "南方中证申万有色金属ETF",
+            "code": "512400",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512480": {
+            "name": "国联安中证全指半导体ETF",
+            "code": "512480",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512500": {
+            "name": "华夏中证500ETF",
+            "code": "512500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512510": {
+            "name": "华泰柏瑞中证500ETF",
+            "code": "512510",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512520": {
+            "name": "MSCIETF",
+            "code": "512520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512530": {
+            "name": "建信沪深300红利ETF",
+            "code": "512530",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512550": {
+            "name": "嘉实富时中国A50ETF",
+            "code": "512550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512560": {
+            "name": "易方达中证军工ETF",
+            "code": "512560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512570": {
+            "name": "易方达中证全指证券公司ETF",
+            "code": "512570",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512580": {
+            "name": "广发中证环保ETF",
+            "code": "512580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512590": {
+            "name": "浦银安盛中证高股息ETF",
+            "code": "512590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512600": {
+            "name": "嘉实中证主要消费ETF",
+            "code": "512600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512610": {
+            "name": "嘉实中证医药卫生ETF",
+            "code": "512610",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512640": {
+            "name": "嘉实中证金融地产ETF",
+            "code": "512640",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512650": {
+            "name": "添富中证长三角ETF",
+            "code": "512650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512660": {
+            "name": "国泰中证军工ETF",
+            "code": "512660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512670": {
+            "name": "国防ETF",
+            "code": "512670",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512680": {
+            "name": "广发中证军工ETF",
+            "code": "512680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512690": {
+            "name": "酒ETF",
+            "code": "512690",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512700": {
+            "name": "南方中证银行ETF",
+            "code": "512700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512710": {
+            "name": "富国中证军工龙头ETF",
+            "code": "512710",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512720": {
+            "name": "国泰中证计算机主题ETF",
+            "code": "512720",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512730": {
+            "name": "银行FUND",
+            "code": "512730",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512750": {
+            "name": "嘉实基本面50ETF",
+            "code": "512750",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512760": {
+            "name": "国泰CES半导体芯片行业ETF",
+            "code": "512760",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512770": {
+            "name": "华夏战略新兴成指ETF",
+            "code": "512770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512780": {
+            "name": "广发中证京津冀ETF",
+            "code": "512780",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512790": {
+            "name": "华安中证民企成长ETF",
+            "code": "512790",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512800": {
+            "name": "华宝中证银行ETF",
+            "code": "512800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512810": {
+            "name": "华宝中证军工ETF",
+            "code": "512810",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512820": {
+            "name": "中证银行ETF",
+            "code": "512820",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512830": {
+            "name": "汇添富中国战略新兴产业ETF",
+            "code": "512830",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512850": {
+            "name": "中信建投北京50ETF",
+            "code": "512850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512860": {
+            "name": "华安MSCI中国A股国际ETF",
+            "code": "512860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512870": {
+            "name": "南华中证杭州湾区ETF",
+            "code": "512870",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512880": {
+            "name": "国泰中证全指证券公司ETF",
+            "code": "512880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512890": {
+            "name": "红利低波",
+            "code": "512890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512900": {
+            "name": "南方中证全指证券公司ETF",
+            "code": "512900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512910": {
+            "name": "广发中证100ETF",
+            "code": "512910",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512920": {
+            "name": "新华MSCI中国A股国际ETF",
+            "code": "512920",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512930": {
+            "name": "平安人工智能ETF",
+            "code": "512930",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512950": {
+            "name": "华夏中证央企ETF",
+            "code": "512950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512960": {
+            "name": "博时央企结构调整ETF",
+            "code": "512960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512970": {
+            "name": "粤港澳大湾区ETF",
+            "code": "512970",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512980": {
+            "name": "广发中证传媒ETF",
+            "code": "512980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "512990": {
+            "name": "华夏MSCI中国A股国际通ETF",
+            "code": "512990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513000": {
+            "name": "易方达日兴资管日经225ETF(QDII)",
+            "code": "513000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513010": {
+            "name": "易方达恒生科技ETF(QDII)",
+            "code": "513010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513020": {
+            "name": "国泰中证港股通科技ETF",
+            "code": "513020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513030": {
+            "name": "华安德国(DAX)ETF",
+            "code": "513030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513040": {
+            "name": "易方达中证港股通互联网ETF",
+            "code": "513040",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513050": {
+            "name": "易方达中证海外中国互联网50(QDII-ETF)",
+            "code": "513050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513060": {
+            "name": "博时恒生医疗保健(QDII-ETF)",
+            "code": "513060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513070": {
+            "name": "易方达中证港股通消费主题ETF",
+            "code": "513070",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513080": {
+            "name": "华安法国CAC40ETF",
+            "code": "513080",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513090": {
+            "name": "易方达中证香港证券投资主题ETF",
+            "code": "513090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513100": {
+            "name": "国泰纳斯达克100(QDII-ETF)",
+            "code": "513100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513110": {
+            "name": "纳指100",
+            "code": "513110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513120": {
+            "name": "广发中证香港创新药(QDII-ETF)",
+            "code": "513120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513130": {
+            "name": "恒生科技",
+            "code": "513130",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513140": {
+            "name": "港股金融",
+            "code": "513140",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513150": {
+            "name": "港科技50",
+            "code": "513150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513160": {
+            "name": "科技30",
+            "code": "513160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513180": {
+            "name": "华夏恒生科技ETF(QDII)",
+            "code": "513180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513190": {
+            "name": "华夏中证港股通内地金融ETF",
+            "code": "513190",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513200": {
+            "name": "易方达中证港股通医药卫生综合ETF",
+            "code": "513200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513220": {
+            "name": "招商中证全球中国互联网ETF(QDII)",
+            "code": "513220",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513230": {
+            "name": "华夏中证港股通消费主题ETF",
+            "code": "513230",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513260": {
+            "name": "汇添富恒生科技ETF",
+            "code": "513260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513280": {
+            "name": "汇添富恒生香港上市生物科技ETF",
+            "code": "513280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513290": {
+            "name": "汇添富纳斯达克生物科技ETF",
+            "code": "513290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513300": {
+            "name": "华夏纳斯达克100ETF(QDII)",
+            "code": "513300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513310": {
+            "name": "中韩芯片",
+            "code": "513310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513320": {
+            "name": "易方达恒生港股通新经济ETF",
+            "code": "513320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513330": {
+            "name": "华夏恒生互联网科技业ETF(QDII)",
+            "code": "513330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513360": {
+            "name": "博时全球中国教育(QDII-ETF)",
+            "code": "513360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513380": {
+            "name": "广发恒生科技(QDII-ETF)",
+            "code": "513380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513390": {
+            "name": "博时纳斯达克100ETF",
+            "code": "513390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513500": {
+            "name": "博时标普500ETF",
+            "code": "513500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513520": {
+            "name": "华夏野村日经225ETF",
+            "code": "513520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513530": {
+            "name": "港股红利",
+            "code": "513530",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513550": {
+            "name": "港股通50",
+            "code": "513550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513560": {
+            "name": "兴银中证港股通科技ETF",
+            "code": "513560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513580": {
+            "name": "华安恒生科技ETF",
+            "code": "513580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513590": {
+            "name": "香港消费",
+            "code": "513590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513600": {
+            "name": "南方恒生指数ETF",
+            "code": "513600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513650": {
+            "name": "南方标普500ETF(QDII)",
+            "code": "513650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513660": {
+            "name": "华夏沪港通恒生ETF",
+            "code": "513660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513680": {
+            "name": "建信港股通恒生中国企业ETF",
+            "code": "513680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513690": {
+            "name": "博时恒生高股息ETF",
+            "code": "513690",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513700": {
+            "name": "香港医药",
+            "code": "513700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513770": {
+            "name": "华宝中证港股通互联网ETF",
+            "code": "513770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513800": {
+            "name": "南方顶峰TOPIXETF(QDII)",
+            "code": "513800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513810": {
+            "name": "华夏中证香港内地国有企业ETF(QDII)",
+            "code": "513810",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513850": {
+            "name": "易方达MSCI美国50ETF(QDII)",
+            "code": "513850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513860": {
+            "name": "海富通中证港股通科技ETF",
+            "code": "513860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513880": {
+            "name": "华安日经225ETF",
+            "code": "513880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513890": {
+            "name": "摩根恒生科技ETF(QDII)",
+            "code": "513890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513900": {
+            "name": "华安CES港股通精选100ETF",
+            "code": "513900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513950": {
+            "name": "富国恒生港股通高股息低波动ETF(QDII)",
+            "code": "513950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513960": {
+            "name": "博时港股通消费ETF",
+            "code": "513960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513970": {
+            "name": "景顺长城恒生消费ETF(QDII)",
+            "code": "513970",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513980": {
+            "name": "景顺长城中证港股通科技ETF",
+            "code": "513980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "513990": {
+            "name": "招商上证港股通ETF",
+            "code": "513990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515000": {
+            "name": "华宝中证科技龙头ETF",
+            "code": "515000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515010": {
+            "name": "华夏中证全指证券公司ETF",
+            "code": "515010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515020": {
+            "name": "华夏中证银行ETF",
+            "code": "515020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515030": {
+            "name": "华夏中证新能源汽车ETF",
+            "code": "515030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515050": {
+            "name": "华夏中证5G通信主题ETF",
+            "code": "515050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515060": {
+            "name": "华夏中证全指房地产ETF",
+            "code": "515060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515070": {
+            "name": "华夏中证人工智能主题ETF",
+            "code": "515070",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515080": {
+            "name": "招商中证红利ETF",
+            "code": "515080",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515090": {
+            "name": "博时可持续发展100ETF",
+            "code": "515090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515100": {
+            "name": "景顺长城中证红利低波动100ETF",
+            "code": "515100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515110": {
+            "name": "易方达中证国企一带一路ETF",
+            "code": "515110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515120": {
+            "name": "广发创新药ETF",
+            "code": "515120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515130": {
+            "name": "博时沪深300ETF",
+            "code": "515130",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515150": {
+            "name": "富国中证国企一带一路ETF",
+            "code": "515150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515160": {
+            "name": "招商MSCI中国A股国际通ETF",
+            "code": "515160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515170": {
+            "name": "华夏中证细分食品饮料产业主题ETF",
+            "code": "515170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515180": {
+            "name": "易方达中证红利ETF",
+            "code": "515180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515190": {
+            "name": "中银证券中证500ETF",
+            "code": "515190",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515200": {
+            "name": "申万菱信中证研发创新100交易型开放式指数",
+            "code": "515200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515210": {
+            "name": "国泰中证钢铁ETF",
+            "code": "515210",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515220": {
+            "name": "国泰中证煤炭ETF",
+            "code": "515220",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515230": {
+            "name": "国泰中证全指软件ETF",
+            "code": "515230",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515250": {
+            "name": "富国中证智能汽车主题ETF",
+            "code": "515250",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515260": {
+            "name": "华宝中证电子50ETF",
+            "code": "515260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515280": {
+            "name": "富国中证银行ETF",
+            "code": "515280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515290": {
+            "name": "天弘中证银行ETF",
+            "code": "515290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515300": {
+            "name": "嘉实沪深300红利低波动ETF",
+            "code": "515300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515310": {
+            "name": "添富沪深300ETF",
+            "code": "515310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515320": {
+            "name": "华安中证电子50ETF",
+            "code": "515320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515330": {
+            "name": "天弘沪深300ETF",
+            "code": "515330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515350": {
+            "name": "民生加银沪深300ETF",
+            "code": "515350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515360": {
+            "name": "方正富邦沪深300ETF",
+            "code": "515360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515380": {
+            "name": "泰康300",
+            "code": "515380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515390": {
+            "name": "华安沪深300ETF",
+            "code": "515390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515400": {
+            "name": "富国中证大数据产业ETF",
+            "code": "515400",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515450": {
+            "name": "南方标普中国A股大盘红利低波50ETF",
+            "code": "515450",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515500": {
+            "name": "海富通中证长三角领先ETF",
+            "code": "515500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515510": {
+            "name": "嘉实中证500成长估值ETF",
+            "code": "515510",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515520": {
+            "name": "大成MSCI中国A股质优价值100ETF",
+            "code": "515520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515530": {
+            "name": "泰康500",
+            "code": "515530",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515550": {
+            "name": "中融500",
+            "code": "515550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515560": {
+            "name": "建信中证全指证券公司ETF",
+            "code": "515560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515570": {
+            "name": "山证红利ETF",
+            "code": "515570",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515580": {
+            "name": "华泰柏瑞中证科技100ETF",
+            "code": "515580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515590": {
+            "name": "前海开源中证500等权ETF",
+            "code": "515590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515600": {
+            "name": "广发中证央企创新驱动ETF",
+            "code": "515600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515610": {
+            "name": "中银800",
+            "code": "515610",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515620": {
+            "name": "建信中证800ETF",
+            "code": "515620",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515630": {
+            "name": "保险证券",
+            "code": "515630",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515650": {
+            "name": "富国中证消费50ETF",
+            "code": "515650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515660": {
+            "name": "国联安沪深300ETF",
+            "code": "515660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515670": {
+            "name": "中银100",
+            "code": "515670",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515680": {
+            "name": "嘉实央企创新驱动ETF",
+            "code": "515680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515690": {
+            "name": "股息ETF",
+            "code": "515690",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515700": {
+            "name": "平安中证新能源汽车产业ETF",
+            "code": "515700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515710": {
+            "name": "华宝中证细分食品饮料产业主题ETF",
+            "code": "515710",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515750": {
+            "name": "富国中证科技50策略ETF",
+            "code": "515750",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515760": {
+            "name": "华夏中证浙江国资创新发展ETF",
+            "code": "515760",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515770": {
+            "name": "摩根MSCI中国A股ETF",
+            "code": "515770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515780": {
+            "name": "浦银安盛MSCI中国A股ETF",
+            "code": "515780",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515790": {
+            "name": "光伏ETF",
+            "code": "515790",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515800": {
+            "name": "添富中证800ETF",
+            "code": "515800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515810": {
+            "name": "易方达中证800ETF",
+            "code": "515810",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515820": {
+            "name": "富国中证800ETF",
+            "code": "515820",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515830": {
+            "name": "工银中证800ETF",
+            "code": "515830",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515850": {
+            "name": "富国中证全指证券公司ETF",
+            "code": "515850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515860": {
+            "name": "嘉实新兴科技100ETF",
+            "code": "515860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515870": {
+            "name": "嘉实先进制造100ETF",
+            "code": "515870",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515880": {
+            "name": "国泰中证全指通信设备ETF",
+            "code": "515880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515890": {
+            "name": "博时中证红利ETF",
+            "code": "515890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515900": {
+            "name": "博时央企创新ETF",
+            "code": "515900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515910": {
+            "name": "质量ETF",
+            "code": "515910",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515920": {
+            "name": "博时智能消费主题ETF",
+            "code": "515920",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515930": {
+            "name": "永赢沪深300ETF",
+            "code": "515930",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515950": {
+            "name": "富国中证医药50ETF",
+            "code": "515950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515960": {
+            "name": "嘉实医药健康100ETF",
+            "code": "515960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515980": {
+            "name": "华富中证人工智能产业ETF",
+            "code": "515980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "515990": {
+            "name": "添富中证国企一带一路ETF",
+            "code": "515990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516000": {
+            "name": "华夏中证大数据产业ETF",
+            "code": "516000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516010": {
+            "name": "国泰中证动漫游戏ETF",
+            "code": "516010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516020": {
+            "name": "华宝化工ETF",
+            "code": "516020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516050": {
+            "name": "科技龙头ETF",
+            "code": "516050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516060": {
+            "name": "创新药产业ETF",
+            "code": "516060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516070": {
+            "name": "易方达中证内地低碳经济主题ETF",
+            "code": "516070",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516080": {
+            "name": "易方达中证创新药产业ETF",
+            "code": "516080",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516090": {
+            "name": "易方达中证新能源ETF",
+            "code": "516090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516100": {
+            "name": "华夏中证金融科技主题ETF",
+            "code": "516100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516110": {
+            "name": "国泰中证800汽车与零部件ETF",
+            "code": "516110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516120": {
+            "name": "富国中证细分化工产业主题ETF",
+            "code": "516120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516130": {
+            "name": "华宝消费龙头ETF",
+            "code": "516130",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516150": {
+            "name": "嘉实中证稀土产业ETF",
+            "code": "516150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516160": {
+            "name": "南方中证新能源ETF",
+            "code": "516160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516170": {
+            "name": "平安中证细分食品饮料产业主题ETF",
+            "code": "516170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516180": {
+            "name": "平安中证光伏产业ETF",
+            "code": "516180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516190": {
+            "name": "华夏中证文娱传媒ETF",
+            "code": "516190",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516200": {
+            "name": "华安中证全指证券公司ETF",
+            "code": "516200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516210": {
+            "name": "华安中证银行ETF",
+            "code": "516210",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516220": {
+            "name": "国泰中证细分化工产业主题ETF",
+            "code": "516220",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516260": {
+            "name": "华夏中证物联网主题ETF",
+            "code": "516260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516270": {
+            "name": "华安中证内地新能源主题ETF",
+            "code": "516270",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516290": {
+            "name": "汇添富中证光伏产业ETF",
+            "code": "516290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516300": {
+            "name": "中证1000",
+            "code": "516300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516310": {
+            "name": "易方达中证银行ETF",
+            "code": "516310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516320": {
+            "name": "华夏中证装备产业ETF",
+            "code": "516320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516330": {
+            "name": "物联网",
+            "code": "516330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516350": {
+            "name": "易方达中证芯片产业ETF",
+            "code": "516350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516360": {
+            "name": "华宝新材料ETF",
+            "code": "516360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516380": {
+            "name": "华宝智能电动汽车ETF",
+            "code": "516380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516390": {
+            "name": "汇添富中证新能源汽车产业ETF",
+            "code": "516390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516400": {
+            "name": "富国中证ESG120策略ETF",
+            "code": "516400",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516480": {
+            "name": "国联安新材料ETF",
+            "code": "516480",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516500": {
+            "name": "华夏中证生物科技主题ETF",
+            "code": "516500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516510": {
+            "name": "易方达中证云计算与大数据主题ETF",
+            "code": "516510",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516520": {
+            "name": "智能驾驶",
+            "code": "516520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516530": {
+            "name": "物流快递",
+            "code": "516530",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516550": {
+            "name": "嘉实中证大农业ETF",
+            "code": "516550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516560": {
+            "name": "华宝养老ETF",
+            "code": "516560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516570": {
+            "name": "易方达中证石化产业ETF",
+            "code": "516570",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516580": {
+            "name": "博时新能源ETF",
+            "code": "516580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516590": {
+            "name": "易方达中证智能电动汽车ETF",
+            "code": "516590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516600": {
+            "name": "消费服务ETF",
+            "code": "516600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516610": {
+            "name": "医服ETF",
+            "code": "516610",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516620": {
+            "name": "国泰中证影视主题ETF",
+            "code": "516620",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516630": {
+            "name": "华夏中证云计算与大数据主题ETF",
+            "code": "516630",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516640": {
+            "name": "富国中证芯片产业ETF",
+            "code": "516640",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516650": {
+            "name": "华夏中证细分有色金属产业主题ETF",
+            "code": "516650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516660": {
+            "name": "华安中证新能源汽车ETF",
+            "code": "516660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516670": {
+            "name": "招商中证畜牧养殖ETF",
+            "code": "516670",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516680": {
+            "name": "建信中证细分有色金属产业主题ETF",
+            "code": "516680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516690": {
+            "name": "化工产业",
+            "code": "516690",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516700": {
+            "name": "华宝大数据ETF",
+            "code": "516700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516710": {
+            "name": "华夏中证新材料主题ETF",
+            "code": "516710",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516720": {
+            "name": "浦银安盛中证ESG120策略ETF",
+            "code": "516720",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516730": {
+            "name": "浦银安盛中证证券公司30ETF",
+            "code": "516730",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516750": {
+            "name": "富国中证全指建筑材料ETF",
+            "code": "516750",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516760": {
+            "name": "平安中证畜牧养殖ETF",
+            "code": "516760",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516770": {
+            "name": "游戏动漫",
+            "code": "516770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516780": {
+            "name": "稀土ETF",
+            "code": "516780",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516790": {
+            "name": "保健ETF",
+            "code": "516790",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516800": {
+            "name": "华宝中证智能制造主题ETF",
+            "code": "516800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516810": {
+            "name": "华夏中证农业主题ETF",
+            "code": "516810",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516820": {
+            "name": "平安中证医疗创新ETF",
+            "code": "516820",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516830": {
+            "name": "富国沪深300ESG基准ETF",
+            "code": "516830",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516850": {
+            "name": "华夏中证新能源ETF",
+            "code": "516850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516860": {
+            "name": "博时金融科技ETF",
+            "code": "516860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516870": {
+            "name": "汽车",
+            "code": "516870",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516880": {
+            "name": "光伏50",
+            "code": "516880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516890": {
+            "name": "平安中证新材料主题ETF",
+            "code": "516890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516900": {
+            "name": "华安中证申万食品饮料ETF",
+            "code": "516900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516910": {
+            "name": "富国中证现代物流ETF",
+            "code": "516910",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516920": {
+            "name": "汇添富中证芯片产业ETF",
+            "code": "516920",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516930": {
+            "name": "生物科技ETF基金",
+            "code": "516930",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516950": {
+            "name": "基建ETF",
+            "code": "516950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516960": {
+            "name": "国泰中证细分机械设备产业主题ETF",
+            "code": "516960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516970": {
+            "name": "广发中证基建工程ETF",
+            "code": "516970",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "516980": {
+            "name": "华富中证证券公司先锋策略ETF",
+            "code": "516980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517000": {
+            "name": "沪港深",
+            "code": "517000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517010": {
+            "name": "易方达中证沪港深500ETF",
+            "code": "517010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517030": {
+            "name": "易方达中证沪港深300ETF",
+            "code": "517030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517050": {
+            "name": "互联网50",
+            "code": "517050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517060": {
+            "name": "华宝中证沪港深500ETF",
+            "code": "517060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517080": {
+            "name": "汇添富中证沪港深500ETF",
+            "code": "517080",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517090": {
+            "name": "国泰富时中国国企开放共赢ETF",
+            "code": "517090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517100": {
+            "name": "富国中证沪港深500ETF",
+            "code": "517100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517110": {
+            "name": "国泰中证沪港深创新药产业ETF",
+            "code": "517110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517120": {
+            "name": "创新药50",
+            "code": "517120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517160": {
+            "name": "南方中证长江保护主题ETF",
+            "code": "517160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517170": {
+            "name": "华夏中证沪港深500ETF",
+            "code": "517170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517180": {
+            "name": "南方富时中国国企开放共赢ETF",
+            "code": "517180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517200": {
+            "name": "嘉实中证沪港深互联网ETF",
+            "code": "517200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517270": {
+            "name": "浦银安盛中证沪港深科技龙头ETF",
+            "code": "517270",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517280": {
+            "name": "天弘中证沪港深线上消费主题ETF",
+            "code": "517280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517300": {
+            "name": "国寿安保中证沪港深300ETF",
+            "code": "517300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517330": {
+            "name": "易方达中证长江保护主题ETF",
+            "code": "517330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517350": {
+            "name": "广发中证沪港深科技龙头ETF",
+            "code": "517350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517360": {
+            "name": "华安中证沪港深科技100ETF",
+            "code": "517360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517380": {
+            "name": "天弘恒生沪深港创新药精选50ETF",
+            "code": "517380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517390": {
+            "name": "天弘中证沪港深云计算产业ETF",
+            "code": "517390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517500": {
+            "name": "国泰中证沪港深动漫游戏ETF",
+            "code": "517500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517550": {
+            "name": "招商中证沪港深消费龙头ETF",
+            "code": "517550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517660": {
+            "name": "天弘中证沪港深物联网主题ETF",
+            "code": "517660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517760": {
+            "name": "浦银安盛中证沪港深消费龙头ETF",
+            "code": "517760",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517770": {
+            "name": "浦银安盛中证沪港深游戏及文化传媒ETF",
+            "code": "517770",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517780": {
+            "name": "浦银安盛中华交易服务沪深港300ETF",
+            "code": "517780",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517800": {
+            "name": "方正富邦沪港深人工智能50ETF",
+            "code": "517800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517850": {
+            "name": "汇添富中证沪港深张江自主创新50ETF",
+            "code": "517850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517880": {
+            "name": "品牌消费",
+            "code": "517880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517900": {
+            "name": "招商中证银行AH价格优选ETF",
+            "code": "517900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517960": {
+            "name": "摩根中证沪港深科技100ETF",
+            "code": "517960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517980": {
+            "name": "华富中证银行AH价格优选ETF",
+            "code": "517980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "517990": {
+            "name": "招商中证沪港深500医药卫生ETF",
+            "code": "517990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518600": {
+            "name": "广发上海金ETF",
+            "code": "518600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518660": {
+            "name": "黄金ETF基金",
+            "code": "518660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518680": {
+            "name": "富国上海金ETF",
+            "code": "518680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518800": {
+            "name": "国泰黄金ETF",
+            "code": "518800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518850": {
+            "name": "华夏黄金ETF",
+            "code": "518850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518860": {
+            "name": "建信上海金ETF",
+            "code": "518860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518880": {
+            "name": "华安黄金易(ETF)",
+            "code": "518880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "518890": {
+            "name": "中银黄金",
+            "code": "518890",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560000": {
+            "name": "浦银安盛中证智能电动汽车ETF",
+            "code": "560000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560010": {
+            "name": "广发中证1000ETF",
+            "code": "560010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560020": {
+            "name": "汇添富中证红利ETF",
+            "code": "560020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560030": {
+            "name": "汇添富中证800价值ETF",
+            "code": "560030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560050": {
+            "name": "汇添富MSCI中国A50互联互通ETF",
+            "code": "560050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560060": {
+            "name": "汇添富中证上海环交所碳中和ETF",
+            "code": "560060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560070": {
+            "name": "汇添富中证国新央企股东回报ETF",
+            "code": "560070",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560080": {
+            "name": "汇添富中证中药ETF",
+            "code": "560080",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560090": {
+            "name": "汇添富中证全指证券公司ETF",
+            "code": "560090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560100": {
+            "name": "南方中证500增强策略ETF",
+            "code": "560100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560110": {
+            "name": "汇添富中证1000ETF",
+            "code": "560110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560160": {
+            "name": "光大保德信中证全指医疗器械ETF",
+            "code": "560160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560170": {
+            "name": "南方中证国新央企科技引领ETF",
+            "code": "560170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560180": {
+            "name": "南方沪深300ESG基准ETF",
+            "code": "560180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560260": {
+            "name": "广发中证医疗ETF",
+            "code": "560260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560330": {
+            "name": "申万菱信沪深300价值ETF",
+            "code": "560330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560500": {
+            "name": "鹏扬中证500质量成长ETF",
+            "code": "560500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560550": {
+            "name": "广发中证上海环交所碳中和ETF",
+            "code": "560550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560560": {
+            "name": "碳中和TK",
+            "code": "560560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560580": {
+            "name": "南方中证全指电力公用事业ETF",
+            "code": "560580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560590": {
+            "name": "1000ETF增强",
+            "code": "560590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560600": {
+            "name": "方正富邦中证医药及医疗器械创新ETF",
+            "code": "560600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560650": {
+            "name": "核心50ETF",
+            "code": "560650",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560660": {
+            "name": "新华中证云计算50ETF",
+            "code": "560660",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560680": {
+            "name": "广发中证主要消费ETF",
+            "code": "560680",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560700": {
+            "name": "广发中证国新央企股东回报ETF",
+            "code": "560700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560800": {
+            "name": "鹏扬中证数字经济主题ETF",
+            "code": "560800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560860": {
+            "name": "万家中证工业有色金属主题ETF",
+            "code": "560860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560880": {
+            "name": "广发中证全指家用电器ETF",
+            "code": "560880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560900": {
+            "name": "摩根中证创新药产业ETF",
+            "code": "560900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560950": {
+            "name": "汇添富中证500增强策略ETF",
+            "code": "560950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560960": {
+            "name": "摩根中证碳中和60ETF",
+            "code": "560960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560980": {
+            "name": "广发中证光伏龙头30ETF",
+            "code": "560980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "560990": {
+            "name": "中金科技先锋ETF",
+            "code": "560990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561000": {
+            "name": "华安沪深300增强策略ETF",
+            "code": "561000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561060": {
+            "name": "华安中证国有企业红利ETF",
+            "code": "561060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561100": {
+            "name": "富国中证消费电子主题ETF",
+            "code": "561100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561120": {
+            "name": "富国中证全指家用电器ETF",
+            "code": "561120",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561130": {
+            "name": "富国中证新华社民族品牌工程ETF",
+            "code": "561130",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561150": {
+            "name": "富国中证500ESG基准ETF",
+            "code": "561150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561160": {
+            "name": "富国中证电池主题ETF",
+            "code": "561160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561170": {
+            "name": "富国中证绿色电力ETF",
+            "code": "561170",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561180": {
+            "name": "富国中证100ETF",
+            "code": "561180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561190": {
+            "name": "富国中证上海环交所碳中和ETF",
+            "code": "561190",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561260": {
+            "name": "能源ETF",
+            "code": "561260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561280": {
+            "name": "中证1000ETF增强",
+            "code": "561280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561300": {
+            "name": "国泰沪深300增强策略ETF",
+            "code": "561300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561310": {
+            "name": "国泰中证消费电子主题ETF",
+            "code": "561310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561320": {
+            "name": "国泰中证内地运输主题ETF",
+            "code": "561320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561330": {
+            "name": "国泰中证有色金属矿业主题ETF",
+            "code": "561330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561350": {
+            "name": "国泰中证500ETF",
+            "code": "561350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561500": {
+            "name": "漂亮50",
+            "code": "561500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561510": {
+            "name": "中医药",
+            "code": "561510",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561550": {
+            "name": "500指增",
+            "code": "561550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561560": {
+            "name": "电力ETF",
+            "code": "561560",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561580": {
+            "name": "央企红利",
+            "code": "561580",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561590": {
+            "name": "1000增强",
+            "code": "561590",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561600": {
+            "name": "平安中证消费电子主题ETF",
+            "code": "561600",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561700": {
+            "name": "博时中证全指电力公用事业ETF",
+            "code": "561700",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561710": {
+            "name": "博时中证疫苗与生物技术ETF",
+            "code": "561710",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561790": {
+            "name": "博时中证国新央企现代能源ETF",
+            "code": "561790",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561800": {
+            "name": "华富中证稀有金属主题ETF",
+            "code": "561800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561900": {
+            "name": "招商沪深300ESG基准ETF",
+            "code": "561900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561910": {
+            "name": "招商中证电池主题ETF",
+            "code": "561910",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561920": {
+            "name": "招商中证疫苗与生物技术ETF",
+            "code": "561920",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561950": {
+            "name": "招商中证500增强策略ETF",
+            "code": "561950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561960": {
+            "name": "招商中证国新央企股东回报ETF",
+            "code": "561960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561980": {
+            "name": "招商中证半导体产业ETF",
+            "code": "561980",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "561990": {
+            "name": "招商沪深300增强策略ETF",
+            "code": "561990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562000": {
+            "name": "华宝中证100ETF",
+            "code": "562000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562010": {
+            "name": "华宝中证绿色能源ETF",
+            "code": "562010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562300": {
+            "name": "低碳ETF",
+            "code": "562300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562310": {
+            "name": "300成长",
+            "code": "562310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562320": {
+            "name": "300价值A",
+            "code": "562320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562330": {
+            "name": "500价值",
+            "code": "562330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562350": {
+            "name": "电力",
+            "code": "562350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562360": {
+            "name": "机器人YH",
+            "code": "562360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562380": {
+            "name": "科技引领",
+            "code": "562380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562390": {
+            "name": "中药",
+            "code": "562390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562500": {
+            "name": "华夏中证机器人ETF",
+            "code": "562500",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562510": {
+            "name": "华夏中证旅游主题ETF",
+            "code": "562510",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562520": {
+            "name": "华夏中证智选1000成长创新策略ETF",
+            "code": "562520",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562530": {
+            "name": "华夏中证智选1000价值稳健策略ETF",
+            "code": "562530",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562550": {
+            "name": "华夏中证绿色电力ETF",
+            "code": "562550",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562800": {
+            "name": "嘉实中证稀有金属主题ETF",
+            "code": "562800",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562850": {
+            "name": "嘉实中证国新央企现代能源ETF",
+            "code": "562850",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562860": {
+            "name": "嘉实中证疫苗与生物技术ETF",
+            "code": "562860",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562880": {
+            "name": "嘉实中证电池主题ETF",
+            "code": "562880",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562900": {
+            "name": "易方达中证现代农业主题ETF",
+            "code": "562900",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562910": {
+            "name": "易方达中证装备产业ETF",
+            "code": "562910",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562920": {
+            "name": "易方达中证信息安全主题ETF",
+            "code": "562920",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562930": {
+            "name": "易方达中证软件服务ETF",
+            "code": "562930",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562950": {
+            "name": "易方达中证消费电子主题ETF",
+            "code": "562950",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562960": {
+            "name": "易方达中证绿色电力ETF",
+            "code": "562960",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "562990": {
+            "name": "易方达中证上海环交所碳中和ETF",
+            "code": "562990",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "563000": {
+            "name": "易方达MSCI中国A50互联互通ETF",
+            "code": "563000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "563010": {
+            "name": "易方达中证电信主题ETF",
+            "code": "563010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "563030": {
+            "name": "易方达中证500增强策略ETF",
+            "code": "563030",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "563050": {
+            "name": "易方达中证国新央企科技引领ETF",
+            "code": "563050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588000": {
+            "name": "华夏上证科创板50成份ETF",
+            "code": "588000",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588010": {
+            "name": "博时科创板新材料ETF",
+            "code": "588010",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588020": {
+            "name": "易方达上证科创板成长ETF",
+            "code": "588020",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588050": {
+            "name": "科创ETF",
+            "code": "588050",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588060": {
+            "name": "广发科创50ETF",
+            "code": "588060",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588080": {
+            "name": "易方达上证科创板50ETF",
+            "code": "588080",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588090": {
+            "name": "科创板ETF",
+            "code": "588090",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588100": {
+            "name": "嘉实上证科创板新一代信息技术ETF",
+            "code": "588100",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588110": {
+            "name": "广发上证科创板成长ETF",
+            "code": "588110",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588150": {
+            "name": "南方上证科创板50成份ETF",
+            "code": "588150",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588160": {
+            "name": "南方上证科创板新材料ETF",
+            "code": "588160",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588180": {
+            "name": "国联安科创ETF",
+            "code": "588180",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588200": {
+            "name": "嘉实上证科创板芯片ETF",
+            "code": "588200",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588260": {
+            "name": "华安上证科创板新一代信息技术ETF",
+            "code": "588260",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588280": {
+            "name": "华安上证科创板50ETF",
+            "code": "588280",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588290": {
+            "name": "华安上证科创板芯片ETF",
+            "code": "588290",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588300": {
+            "name": "招商中证科创创业50ETF",
+            "code": "588300",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588310": {
+            "name": "方正富邦科创创业50ETF",
+            "code": "588310",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588320": {
+            "name": "广发中证科创创业50增强策略ETF",
+            "code": "588320",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588330": {
+            "name": "华宝双创龙头ETF",
+            "code": "588330",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588350": {
+            "name": "鹏扬中证科创创业50ETF",
+            "code": "588350",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588360": {
+            "name": "国泰中证科创创业50ETF",
+            "code": "588360",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588370": {
+            "name": "南方上证科创板50成份增强策略ETF",
+            "code": "588370",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588380": {
+            "name": "富国中证科创创业50ETF",
+            "code": "588380",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588390": {
+            "name": "博时中证科创创业50ETF",
+            "code": "588390",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588400": {
+            "name": "嘉实中证科创创业50ETF",
+            "code": "588400",
+            "exchg": "SSE",
+            "product": "ETF"
+        },
+        "588460": {
+            "name": "科创50增强ETF",
+            "code": "588460",
+            "exchg": "SSE",
+            "product": "ETF"
+        }
+    },
+    "SZSE": {
+        "159001": {
+            "name": "易方达保证金货币A",
+            "code": "159001",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159002": {
+            "name": "易方达保证金货币B",
+            "code": "159002",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159003": {
+            "name": "招商保证金快线A",
+            "code": "159003",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159004": {
+            "name": "招商保证金快线B",
+            "code": "159004",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159005": {
+            "name": "汇添富收益快钱货币A",
+            "code": "159005",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159006": {
+            "name": "汇添富收益快钱货币B",
+            "code": "159006",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159501": {
+            "name": "嘉实纳斯达克100ETF(QDII)",
+            "code": "159501",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159503": {
+            "name": "鹏扬国证财富管理ETF",
+            "code": "159503",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159506": {
+            "name": "富国恒生港股通医疗保健ETF",
+            "code": "159506",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159507": {
+            "name": "广发国证通信ETF",
+            "code": "159507",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159508": {
+            "name": "华安国证生物医药ETF",
+            "code": "159508",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159509": {
+            "name": "景顺长城纳斯达克科技ETF(QDII)",
+            "code": "159509",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159510": {
+            "name": "华夏中证智选300价值稳健策略ETF",
+            "code": "159510",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159511": {
+            "name": "南方中证通信服务ETF",
+            "code": "159511",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159512": {
+            "name": "广发中证全指汽车ETF",
+            "code": "159512",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159513": {
+            "name": "大成纳斯达克100ETF(QDII)",
+            "code": "159513",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159515": {
+            "name": "鹏扬中证国有企业红利ETF",
+            "code": "159515",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159516": {
+            "name": "国泰中证半导体材料设备主题ETF",
+            "code": "159516",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159517": {
+            "name": "800增强ETF",
+            "code": "159517",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159519": {
+            "name": "国泰中证香港内地国有企业ETF(QDII)",
+            "code": "159519",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159521": {
+            "name": "平安国证2000ETF",
+            "code": "159521",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159522": {
+            "name": "景顺长城国证2000ETF",
+            "code": "159522",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159523": {
+            "name": "华夏中证智选300成长创新策略ETF",
+            "code": "159523",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159601": {
+            "name": "华夏MSCI中国A50互联互通ETF",
+            "code": "159601",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159602": {
+            "name": "南方MSCI中国A50互联互通ETF",
+            "code": "159602",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159603": {
+            "name": "天弘中证科创创业50ETF",
+            "code": "159603",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159605": {
+            "name": "广发中证海外中国互联网30(QDII-ETF)",
+            "code": "159605",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159606": {
+            "name": "易方达中证500质量成长ETF",
+            "code": "159606",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159607": {
+            "name": "嘉实中证海外中国互联网30ETF(QDII)",
+            "code": "159607",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159608": {
+            "name": "广发中证稀有金属ETF",
+            "code": "159608",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159609": {
+            "name": "浦银安盛中证光伏产业ETF",
+            "code": "159609",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159610": {
+            "name": "景顺长城中证500增强策略ETF",
+            "code": "159610",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159611": {
+            "name": "广发中证全指电力ETF",
+            "code": "159611",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159612": {
+            "name": "国泰标普500ETF",
+            "code": "159612",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159613": {
+            "name": "嘉实中证信息安全主题ETF",
+            "code": "159613",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159615": {
+            "name": "南方恒生香港上市生物科技ETF(QDII)",
+            "code": "159615",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159616": {
+            "name": "建信中证农牧主题ETF",
+            "code": "159616",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159617": {
+            "name": "华夏中证智选500价值稳健策略ETF",
+            "code": "159617",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159618": {
+            "name": "华安中证光伏产业ETF",
+            "code": "159618",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159619": {
+            "name": "国泰中证基建ETF",
+            "code": "159619",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159620": {
+            "name": "华夏中证智选500成长创新策略ETF",
+            "code": "159620",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159621": {
+            "name": "国泰MSCI中国A股ESG通用ETF",
+            "code": "159621",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159622": {
+            "name": "创新药ETF沪港深",
+            "code": "159622",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159623": {
+            "name": "博时成渝经济圈ETF",
+            "code": "159623",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159625": {
+            "name": "嘉实国证绿色电力ETF",
+            "code": "159625",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159627": {
+            "name": "华夏中证100ETF",
+            "code": "159627",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159628": {
+            "name": "万家国证2000ETF",
+            "code": "159628",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159629": {
+            "name": "富国中证1000ETF",
+            "code": "159629",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159630": {
+            "name": "汇添富中证100ETF",
+            "code": "159630",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159631": {
+            "name": "招商中证100ETF",
+            "code": "159631",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159632": {
+            "name": "华安纳斯达克100ETF(QDII)",
+            "code": "159632",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159633": {
+            "name": "易方达中证1000ETF",
+            "code": "159633",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159635": {
+            "name": "华夏中证基建ETF",
+            "code": "159635",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159636": {
+            "name": "港股通科技30ETF",
+            "code": "159636",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159637": {
+            "name": "新能源车龙头ETF",
+            "code": "159637",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159638": {
+            "name": "嘉实中证高端装备细分50ETF",
+            "code": "159638",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159639": {
+            "name": "南方中证上海环交所碳中和ETF",
+            "code": "159639",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159640": {
+            "name": "碳中和龙头ETF",
+            "code": "159640",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159641": {
+            "name": "招商中证上海环交所碳中和ETF",
+            "code": "159641",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159642": {
+            "name": "大成中证上海环交所碳中和ETF",
+            "code": "159642",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159643": {
+            "name": "国泰国证疫苗与生物科技ETF",
+            "code": "159643",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159645": {
+            "name": "富国国证疫苗与生物科技ETF",
+            "code": "159645",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159646": {
+            "name": "疫苗ETF基金",
+            "code": "159646",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159647": {
+            "name": "中药ETF",
+            "code": "159647",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159649": {
+            "name": "华安中债1-5年国开行债券ETF",
+            "code": "159649",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159650": {
+            "name": "博时中债0-3年国开行ETF",
+            "code": "159650",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159651": {
+            "name": "平安中债-0-3年国开行债券ETF",
+            "code": "159651",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159652": {
+            "name": "汇添富中证细分有色金属产业主题ETF",
+            "code": "159652",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159653": {
+            "name": "国联安ESG300ETF",
+            "code": "159653",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159655": {
+            "name": "华夏标普500ETF(QDII)",
+            "code": "159655",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159656": {
+            "name": "万家沪深300成长ETF",
+            "code": "159656",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159657": {
+            "name": "生物疫苗ETF",
+            "code": "159657",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159658": {
+            "name": "华安中证数字经济主题ETF",
+            "code": "159658",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159659": {
+            "name": "招商纳斯达克100ETF(QDII)",
+            "code": "159659",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159660": {
+            "name": "汇添富纳斯达克100ETF",
+            "code": "159660",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159662": {
+            "name": "南方国证交通运输行业ETF",
+            "code": "159662",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159663": {
+            "name": "华夏中证机床ETF",
+            "code": "159663",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159665": {
+            "name": "半导体龙头ETF",
+            "code": "159665",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159666": {
+            "name": "华夏中证全指运输ETF",
+            "code": "159666",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159667": {
+            "name": "国泰中证机床ETF",
+            "code": "159667",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159669": {
+            "name": "国泰国证绿色电力ETF",
+            "code": "159669",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159670": {
+            "name": "国联安消费50ETF",
+            "code": "159670",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159671": {
+            "name": "稀有金属ETF基金",
+            "code": "159671",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159672": {
+            "name": "博时主要消费ETF",
+            "code": "159672",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159673": {
+            "name": "鹏华沪深300ETF",
+            "code": "159673",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159675": {
+            "name": "嘉实创业板增强策略ETF",
+            "code": "159675",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159676": {
+            "name": "富国创业板增强策略ETF",
+            "code": "159676",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159677": {
+            "name": "1000增强ETF",
+            "code": "159677",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159678": {
+            "name": "博时中证500增强ETF",
+            "code": "159678",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159679": {
+            "name": "国泰中证1000增强策略ETF",
+            "code": "159679",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159680": {
+            "name": "招商中证1000增强策略ETF",
+            "code": "159680",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159681": {
+            "name": "创50ETF",
+            "code": "159681",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159682": {
+            "name": "景顺长城创业板50ETF",
+            "code": "159682",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159683": {
+            "name": "嘉实中证内地运输主题ETF",
+            "code": "159683",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159685": {
+            "name": "天弘中证1000增强策略ETF",
+            "code": "159685",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159686": {
+            "name": "易方达中证100ETF",
+            "code": "159686",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159687": {
+            "name": "南方基金南方东英银河联昌富时亚太低碳精选ETF(QDII)",
+            "code": "159687",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159688": {
+            "name": "华安恒生互联网科技业ETF(QDII)",
+            "code": "159688",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159689": {
+            "name": "南方中证主要消费ETF",
+            "code": "159689",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159690": {
+            "name": "招商中证有色金属矿业主题ETF",
+            "code": "159690",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159691": {
+            "name": "高股息ETF港股",
+            "code": "159691",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159692": {
+            "name": "证券ETF东财",
+            "code": "159692",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159693": {
+            "name": "有色矿业ETF",
+            "code": "159693",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159695": {
+            "name": "嘉实国证通信ETF",
+            "code": "159695",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159696": {
+            "name": "易方达纳斯达克100ETF(QDII)",
+            "code": "159696",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159697": {
+            "name": "油气ETF",
+            "code": "159697",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159698": {
+            "name": "粮食ETF",
+            "code": "159698",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159699": {
+            "name": "广发恒生消费(QDII-ETF)",
+            "code": "159699",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159701": {
+            "name": "招商中证物联网主题ETF",
+            "code": "159701",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159702": {
+            "name": "汇添富中证人工智能主题ETF",
+            "code": "159702",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159703": {
+            "name": "天弘中证新材料主题ETF",
+            "code": "159703",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159706": {
+            "name": "深证100ETF华安",
+            "code": "159706",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159707": {
+            "name": "华宝中证800地产ETF",
+            "code": "159707",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159708": {
+            "name": "红利ETF",
+            "code": "159708",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159709": {
+            "name": "物联网ETF工银",
+            "code": "159709",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159710": {
+            "name": "建信中证智能电动汽车ETF",
+            "code": "159710",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159711": {
+            "name": "华夏中证港股通50ETF",
+            "code": "159711",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159712": {
+            "name": "国泰中证港股通50ETF",
+            "code": "159712",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159713": {
+            "name": "富国中证稀土产业ETF",
+            "code": "159713",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159715": {
+            "name": "易方达中证稀土产业ETF",
+            "code": "159715",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159716": {
+            "name": "华宝深创100ETF",
+            "code": "159716",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159717": {
+            "name": "ESGETF",
+            "code": "159717",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159718": {
+            "name": "平安中证港股医药ETF",
+            "code": "159718",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159719": {
+            "name": "平安富时中国国企开放共赢ETF",
+            "code": "159719",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159720": {
+            "name": "智能车TK",
+            "code": "159720",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159721": {
+            "name": "深创龙头ETF",
+            "code": "159721",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159723": {
+            "name": "汇添富中证沪港深科技龙头ETF",
+            "code": "159723",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159725": {
+            "name": "线上消费ETF",
+            "code": "159725",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159726": {
+            "name": "华夏恒生中国内地企业高股息率ETF",
+            "code": "159726",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159728": {
+            "name": "南方国证在线消费ETF",
+            "code": "159728",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159729": {
+            "name": "汇添富中证沪港深互联网ETF",
+            "code": "159729",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159730": {
+            "name": "博时龙头家电ETF",
+            "code": "159730",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159731": {
+            "name": "华夏中证石化产业ETF",
+            "code": "159731",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159732": {
+            "name": "华夏国证消费电子主题ETF",
+            "code": "159732",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159733": {
+            "name": "景顺长城中证消费电子ETF",
+            "code": "159733",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159735": {
+            "name": "港股消费",
+            "code": "159735",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159736": {
+            "name": "天弘中证食品饮料ETF",
+            "code": "159736",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159738": {
+            "name": "云计算ETF沪港深",
+            "code": "159738",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159739": {
+            "name": "大数据ETF",
+            "code": "159739",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159740": {
+            "name": "大成恒生科技ETF(QDII)",
+            "code": "159740",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159741": {
+            "name": "嘉实恒生科技ETF(QDII)",
+            "code": "159741",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159742": {
+            "name": "博时恒生科技ETF(QDII)",
+            "code": "159742",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159743": {
+            "name": "博时湖北新旧动能转换ETF",
+            "code": "159743",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159745": {
+            "name": "国泰中证全指建筑材料ETF",
+            "code": "159745",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159747": {
+            "name": "南方中证香港科技ETF(QDII)",
+            "code": "159747",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159748": {
+            "name": "富国中证沪港深创新药产业ETF",
+            "code": "159748",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159750": {
+            "name": "招商中证香港科技ETF(QDII)",
+            "code": "159750",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159751": {
+            "name": "港股科技ETF",
+            "code": "159751",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159752": {
+            "name": "申万菱信中证内地新能源主题ETF",
+            "code": "159752",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159755": {
+            "name": "广发国证新能源车电池ETF",
+            "code": "159755",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159756": {
+            "name": "BOCI电池ETF",
+            "code": "159756",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159757": {
+            "name": "景顺长城国证新能源车电池ETF",
+            "code": "159757",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159758": {
+            "name": "华夏中证红利质量ETF",
+            "code": "159758",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159760": {
+            "name": "公共卫生健康ETF",
+            "code": "159760",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159761": {
+            "name": "国泰中证新材料主题ETF",
+            "code": "159761",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159763": {
+            "name": "建信中证新材料主题ETF",
+            "code": "159763",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159766": {
+            "name": "富国中证旅游主题ETF",
+            "code": "159766",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159767": {
+            "name": "兴银国证新能源车电池ETF",
+            "code": "159767",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159768": {
+            "name": "房地产ETF",
+            "code": "159768",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159769": {
+            "name": "消费电子龙头ETF",
+            "code": "159769",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159770": {
+            "name": "天弘中证机器人ETF",
+            "code": "159770",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159773": {
+            "name": "创业板科技ETF",
+            "code": "159773",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159775": {
+            "name": "建信国证新能源车电池ETF",
+            "code": "159775",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159776": {
+            "name": "港股通医药ETF",
+            "code": "159776",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159777": {
+            "name": "国联安创科技ETF",
+            "code": "159777",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159778": {
+            "name": "工业互联ETF",
+            "code": "159778",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159779": {
+            "name": "招商中证消费电子主题ETF",
+            "code": "159779",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159780": {
+            "name": "南方中证科创创业50ETF",
+            "code": "159780",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159781": {
+            "name": "易方达中证科创创业50ETF",
+            "code": "159781",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159782": {
+            "name": "双创50",
+            "code": "159782",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159783": {
+            "name": "华夏中证科创创业50ETF",
+            "code": "159783",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159786": {
+            "name": "VRETF",
+            "code": "159786",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159787": {
+            "name": "易方达中证全指建筑材料ETF",
+            "code": "159787",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159788": {
+            "name": "易方达中证港股通中国100ETF",
+            "code": "159788",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159789": {
+            "name": "建信中证饮料主题ETF",
+            "code": "159789",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159790": {
+            "name": "华夏中证内地低碳经济主题ETF",
+            "code": "159790",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159791": {
+            "name": "华夏沪深300ESG基准ETF",
+            "code": "159791",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159792": {
+            "name": "富国中证港股通互联网ETF",
+            "code": "159792",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159793": {
+            "name": "平安中证沪港深线上消费主题ETF",
+            "code": "159793",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159795": {
+            "name": "汇添富中证智能汽车主题ETF",
+            "code": "159795",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159796": {
+            "name": "汇添富中证电池主题ETF",
+            "code": "159796",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159797": {
+            "name": "汇添富中证全指医疗器械ETF",
+            "code": "159797",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159798": {
+            "name": "易方达中证消费50ETF",
+            "code": "159798",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159799": {
+            "name": "平安中证港股通消费ETF",
+            "code": "159799",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159801": {
+            "name": "广发国证半导体芯片ETF",
+            "code": "159801",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159802": {
+            "name": "广发中证800ETF",
+            "code": "159802",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159803": {
+            "name": "易方达中证浙江新动能ETF(QDII)",
+            "code": "159803",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159804": {
+            "name": "国寿安保创精选88ETF",
+            "code": "159804",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159805": {
+            "name": "传媒ETF",
+            "code": "159805",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159806": {
+            "name": "国泰中证新能源汽车ETF",
+            "code": "159806",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159807": {
+            "name": "易方达中证科技50ETF",
+            "code": "159807",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159808": {
+            "name": "融通创业板ETF",
+            "code": "159808",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159809": {
+            "name": "博时大湾区ETF",
+            "code": "159809",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159810": {
+            "name": "浦银安盛创业板ETF",
+            "code": "159810",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159811": {
+            "name": "博时5G50ETF",
+            "code": "159811",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159812": {
+            "name": "前海开源黄金ETF",
+            "code": "159812",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159813": {
+            "name": "芯片",
+            "code": "159813",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159814": {
+            "name": "西部利得创业板大盘ETF",
+            "code": "159814",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159815": {
+            "name": "招商中证浙江100ETF",
+            "code": "159815",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159816": {
+            "name": "0-4地债",
+            "code": "159816",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159819": {
+            "name": "易方达中证人工智能主题ETF",
+            "code": "159819",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159820": {
+            "name": "天弘中证500ETF",
+            "code": "159820",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159821": {
+            "name": "中银证券创业板ETF",
+            "code": "159821",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159822": {
+            "name": "新经济",
+            "code": "159822",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159823": {
+            "name": "嘉实H股50ETF(QDII)",
+            "code": "159823",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159824": {
+            "name": "博时新能源汽车ETF",
+            "code": "159824",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159825": {
+            "name": "富国中证农业主题ETF",
+            "code": "159825",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159827": {
+            "name": "农业50",
+            "code": "159827",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159828": {
+            "name": "国泰中证医疗ETF",
+            "code": "159828",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159830": {
+            "name": "天弘上海金ETF",
+            "code": "159830",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159831": {
+            "name": "嘉实上海金ETF",
+            "code": "159831",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159832": {
+            "name": "平安上海金ETF",
+            "code": "159832",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159833": {
+            "name": "大成上海金ETF",
+            "code": "159833",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159834": {
+            "name": "南方上海金ETF",
+            "code": "159834",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159835": {
+            "name": "建信中证创新药产业ETF",
+            "code": "159835",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159836": {
+            "name": "天弘创业板300ETF",
+            "code": "159836",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159837": {
+            "name": "易方达中证生物科技主题ETF",
+            "code": "159837",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159838": {
+            "name": "博时医药50ETF",
+            "code": "159838",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159839": {
+            "name": "汇添富国证生物医药ETF",
+            "code": "159839",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159840": {
+            "name": "锂电池ETF",
+            "code": "159840",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159841": {
+            "name": "天弘中证全指证券公司ETF",
+            "code": "159841",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159842": {
+            "name": "券商ETF",
+            "code": "159842",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159843": {
+            "name": "招商国证食品饮料ETF",
+            "code": "159843",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159845": {
+            "name": "华夏中证1000ETF",
+            "code": "159845",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159846": {
+            "name": "建信中证1000ETF",
+            "code": "159846",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159847": {
+            "name": "易方达中证医疗ETF",
+            "code": "159847",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159848": {
+            "name": "国联安证券ETF",
+            "code": "159848",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159849": {
+            "name": "招商中证生物科技主题ETF",
+            "code": "159849",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159850": {
+            "name": "华夏恒生中国企业ETF(QDII)",
+            "code": "159850",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159851": {
+            "name": "华宝中证金融科技主题ETF",
+            "code": "159851",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159852": {
+            "name": "嘉实中证软件服务ETF",
+            "code": "159852",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159853": {
+            "name": "南方中证科技100ETF",
+            "code": "159853",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159855": {
+            "name": "影视ETF",
+            "code": "159855",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159856": {
+            "name": "互联网龙头ETF",
+            "code": "159856",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159857": {
+            "name": "天弘中证光伏产业ETF",
+            "code": "159857",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159858": {
+            "name": "南方中证创新药产业ETF",
+            "code": "159858",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159859": {
+            "name": "天弘国证生物医药ETF",
+            "code": "159859",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159861": {
+            "name": "国泰中证环保产业50ETF",
+            "code": "159861",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159862": {
+            "name": "食品ETF",
+            "code": "159862",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159863": {
+            "name": "光伏产业",
+            "code": "159863",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159864": {
+            "name": "国泰中证光伏产业ETF",
+            "code": "159864",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159865": {
+            "name": "国泰中证畜牧养殖ETF",
+            "code": "159865",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159866": {
+            "name": "日经ETF",
+            "code": "159866",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159867": {
+            "name": "畜牧ETF",
+            "code": "159867",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159869": {
+            "name": "华夏中证动漫游戏ETF",
+            "code": "159869",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159870": {
+            "name": "化工ETF",
+            "code": "159870",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159871": {
+            "name": "有色金属",
+            "code": "159871",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159872": {
+            "name": "车联网",
+            "code": "159872",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159873": {
+            "name": "天弘中证全指医疗保健设备与服务ETF",
+            "code": "159873",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159875": {
+            "name": "嘉实中证新能源ETF",
+            "code": "159875",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159876": {
+            "name": "有色龙头ETF",
+            "code": "159876",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159877": {
+            "name": "南方中证全指医疗保健设备与服务ETF",
+            "code": "159877",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159880": {
+            "name": "有色50",
+            "code": "159880",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159881": {
+            "name": "国泰中证有色金属ETF",
+            "code": "159881",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159883": {
+            "name": "医疗器械ETF",
+            "code": "159883",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159885": {
+            "name": "低碳ETF",
+            "code": "159885",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159886": {
+            "name": "富国中证细分机械设备产业主题ETF",
+            "code": "159886",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159887": {
+            "name": "富国中证800银行ETF",
+            "code": "159887",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159888": {
+            "name": "华夏中证智能汽车主题ETF",
+            "code": "159888",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159889": {
+            "name": "国泰中证智能汽车主题ETF",
+            "code": "159889",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159890": {
+            "name": "招商中证云计算ETF",
+            "code": "159890",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159891": {
+            "name": "建信中证全指医疗保健设备与服务ETF",
+            "code": "159891",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159892": {
+            "name": "华夏恒生香港上市生物科技ETF(QDII)",
+            "code": "159892",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159895": {
+            "name": "易方达中证物联网主题ETF",
+            "code": "159895",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159896": {
+            "name": "南方中证物联网主题ETF",
+            "code": "159896",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159897": {
+            "name": "建信中证物联网主题ETF",
+            "code": "159897",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159898": {
+            "name": "招商中证全指医疗器械ETF",
+            "code": "159898",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159899": {
+            "name": "招商中证全指软件ETF",
+            "code": "159899",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159901": {
+            "name": "易方达深证100ETF",
+            "code": "159901",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159902": {
+            "name": "华夏中小企业100ETF",
+            "code": "159902",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159903": {
+            "name": "南方深证成份ETF",
+            "code": "159903",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159905": {
+            "name": "深红利ETF",
+            "code": "159905",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159906": {
+            "name": "大成深证成长40ETF",
+            "code": "159906",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159907": {
+            "name": "广发国证2000ETF",
+            "code": "159907",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159908": {
+            "name": "博时创业板ETF",
+            "code": "159908",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159909": {
+            "name": "深证TMT50ETF",
+            "code": "159909",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159910": {
+            "name": "嘉实深证基本面120ETF",
+            "code": "159910",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159911": {
+            "name": "民营ETF",
+            "code": "159911",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159912": {
+            "name": "汇添富深证300ETF",
+            "code": "159912",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159913": {
+            "name": "交银深证300价值ETF",
+            "code": "159913",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159915": {
+            "name": "易方达创业板ETF",
+            "code": "159915",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159916": {
+            "name": "建信深证基本面60ETF",
+            "code": "159916",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159917": {
+            "name": "国泰中小板300成长ETF",
+            "code": "159917",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159918": {
+            "name": "嘉实中创400ETF",
+            "code": "159918",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159919": {
+            "name": "嘉实沪深300ETF",
+            "code": "159919",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159920": {
+            "name": "华夏恒生ETF",
+            "code": "159920",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159921": {
+            "name": "诺安中小板等权重ETF",
+            "code": "159921",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159922": {
+            "name": "嘉实中证500ETF",
+            "code": "159922",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159923": {
+            "name": "大成中证100ETF",
+            "code": "159923",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159924": {
+            "name": "景顺长城沪深300等权重ETF",
+            "code": "159924",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159925": {
+            "name": "南方沪深300ETF",
+            "code": "159925",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159926": {
+            "name": "嘉实中证中期国债ETF",
+            "code": "159926",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159927": {
+            "name": "鹏华沪深300指数",
+            "code": "159927",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159928": {
+            "name": "汇添富中证主要消费ETF",
+            "code": "159928",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159929": {
+            "name": "汇添富中证医药卫生ETF",
+            "code": "159929",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159930": {
+            "name": "汇添富中证能源ETF",
+            "code": "159930",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159931": {
+            "name": "汇添富中证金融地产ETF",
+            "code": "159931",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159932": {
+            "name": "大成中证500深市ETF",
+            "code": "159932",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159933": {
+            "name": "国投瑞银金融地产ETF",
+            "code": "159933",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159934": {
+            "name": "易方达黄金ETF",
+            "code": "159934",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159935": {
+            "name": "景顺长城中证500ETF",
+            "code": "159935",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159936": {
+            "name": "广发中证全指可选消费ETF",
+            "code": "159936",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159937": {
+            "name": "博时黄金ETF",
+            "code": "159937",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159938": {
+            "name": "广发中证全指医药卫生ETF",
+            "code": "159938",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159939": {
+            "name": "广发中证全指信息技术ETF",
+            "code": "159939",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159940": {
+            "name": "广发中证全指金融地产ETF",
+            "code": "159940",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159941": {
+            "name": "广发纳指100ETF",
+            "code": "159941",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159942": {
+            "name": "中创100",
+            "code": "159942",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159943": {
+            "name": "深证ETF",
+            "code": "159943",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159944": {
+            "name": "广发中证全指原材料ETF",
+            "code": "159944",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159945": {
+            "name": "广发中证全指能源ETF",
+            "code": "159945",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159946": {
+            "name": "广发中证全指主要消费ETF",
+            "code": "159946",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159948": {
+            "name": "南方创业板ETF",
+            "code": "159948",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159949": {
+            "name": "华安创业板50ETF",
+            "code": "159949",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159950": {
+            "name": "易方达深证成指ETF",
+            "code": "159950",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159951": {
+            "name": "嘉实中关村A股ETF",
+            "code": "159951",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159952": {
+            "name": "广发创业板ETF",
+            "code": "159952",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159953": {
+            "name": "广发中证全指工业ETF",
+            "code": "159953",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159954": {
+            "name": "南方恒生中国企业ETF",
+            "code": "159954",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159955": {
+            "name": "嘉实创业板ETF",
+            "code": "159955",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159956": {
+            "name": "建信创业板ETF",
+            "code": "159956",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159957": {
+            "name": "华夏创业板ETF",
+            "code": "159957",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159958": {
+            "name": "创业板ETF工银",
+            "code": "159958",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159959": {
+            "name": "央企ETF",
+            "code": "159959",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159960": {
+            "name": "平安恒生中国企业ETF",
+            "code": "159960",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159961": {
+            "name": "方正富邦深证100ETF",
+            "code": "159961",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159962": {
+            "name": "华夏中证四川国改ETF",
+            "code": "159962",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159963": {
+            "name": "富国恒生中国企业ETF",
+            "code": "159963",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159964": {
+            "name": "平安创业板ETF",
+            "code": "159964",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159965": {
+            "name": "央视50",
+            "code": "159965",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159966": {
+            "name": "华夏创业板低波价值ETF",
+            "code": "159966",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159967": {
+            "name": "华夏创成长ETF",
+            "code": "159967",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159968": {
+            "name": "博时中证500ETF",
+            "code": "159968",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159969": {
+            "name": "深100P",
+            "code": "159969",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159970": {
+            "name": "深100ETF工银",
+            "code": "159970",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159971": {
+            "name": "富国创业板ETF",
+            "code": "159971",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159972": {
+            "name": "5年地债",
+            "code": "159972",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159973": {
+            "name": "弘毅远方国证民企领先100ETF",
+            "code": "159973",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159974": {
+            "name": "富国中证央企创新驱动ETF",
+            "code": "159974",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159975": {
+            "name": "招商深证100ETF",
+            "code": "159975",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159976": {
+            "name": "湾创ETF",
+            "code": "159976",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159977": {
+            "name": "天弘创业板ETF",
+            "code": "159977",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159978": {
+            "name": "建信大湾区发展主题ETF",
+            "code": "159978",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159979": {
+            "name": "广发湾创100ETF",
+            "code": "159979",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159980": {
+            "name": "大成有色金属期货ETF",
+            "code": "159980",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159981": {
+            "name": "建信能源化工期货ETF",
+            "code": "159981",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159982": {
+            "name": "中证500",
+            "code": "159982",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159983": {
+            "name": "华夏粤港澳大湾区创新100ETF",
+            "code": "159983",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159984": {
+            "name": "南方粤港澳大湾区创新100ETF",
+            "code": "159984",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159985": {
+            "name": "华夏饲料豆粕期货ETF",
+            "code": "159985",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159986": {
+            "name": "弘毅远方国证消费100ETF",
+            "code": "159986",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159987": {
+            "name": "创新ETF",
+            "code": "159987",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159988": {
+            "name": "平安0-5年广东省地方政府债ETF",
+            "code": "159988",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159990": {
+            "name": "小盘价值",
+            "code": "159990",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159991": {
+            "name": "招商创业板大盘ETF",
+            "code": "159991",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159992": {
+            "name": "创新药",
+            "code": "159992",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159993": {
+            "name": "龙头券商",
+            "code": "159993",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159994": {
+            "name": "5GETF",
+            "code": "159994",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159995": {
+            "name": "华夏国证半导体芯片ETF",
+            "code": "159995",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159996": {
+            "name": "国泰中证全指家用电器ETF",
+            "code": "159996",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159997": {
+            "name": "天弘中证电子ETF",
+            "code": "159997",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159998": {
+            "name": "天弘中证计算机主题ETF",
+            "code": "159998",
+            "exchg": "SZSE",
+            "product": "ETF"
+        },
+        "159999": {
+            "name": "永赢中证500ETF",
+            "code": "159999",
+            "exchg": "SZSE",
+            "product": "ETF"
+        }
+    }
+}

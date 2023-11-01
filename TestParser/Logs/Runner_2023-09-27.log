@@ -1,0 +1,4 @@
+[2023.09.27 18:04:25 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.27 18:04:25 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.27 18:12:04 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.09.27 18:12:04 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges

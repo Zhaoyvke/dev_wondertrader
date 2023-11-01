@@ -1,0 +1,22 @@
+[2023.10.26 10:25:40 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.26 10:25:40 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.26 10:25:40 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.26 10:25:41 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.26 10:25:52 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.26 10:26:10 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.26 10:26:10 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.26 10:26:10 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.26 10:26:11 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.26 10:26:15 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.26 11:38:40 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.26 11:38:40 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.26 17:07:49 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.26 17:07:50 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.26 17:12:28 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.26 17:12:28 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.26 17:12:33 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.26 17:12:34 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.26 18:49:34 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.26 18:49:34 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.26 18:49:37 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.26 18:49:38 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded

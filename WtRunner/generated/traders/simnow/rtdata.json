@@ -1,0 +1,152 @@
+{
+    "positions": [
+        {
+            "code": "CZCE.CF.2401",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "CZCE.MA.2401",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "SHFE.cu.2312",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "SHFE.al.2312",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "SHFE.ss.2312",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "SHFE.zn.2312",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "DCE.p.2401",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "DCE.l.2401",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        },
+        {
+            "code": "DCE.y.2401",
+            "long": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            },
+            "short": {
+                "newvol": 0.0,
+                "newavail": 0.0,
+                "prevol": 0.0,
+                "preavail": 0.0
+            }
+        }
+    ],
+    "funds": {
+        "CNY": {
+            "prebalance": 19889034.23,
+            "balance": 19881011.692,
+            "closeprofit": -7894.999999999945,
+            "dynprofit": 0.0,
+            "margin": 0.0,
+            "fee": 127.53800000014249,
+            "available": 19881011.692,
+            "deposit": 0.0,
+            "withdraw": 0.0
+        }
+    }
+}

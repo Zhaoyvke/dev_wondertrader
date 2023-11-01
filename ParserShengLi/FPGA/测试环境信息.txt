@@ -1,0 +1,13 @@
+访问方式：https://ztn.dwstock.com:10993
+登陆用户名：wangtao    密码：Dwzq@123456!@
+ jg_chenhui Dwzq@2023!
+jg_chenhui Dwzq@2023!
+jg_chenhui Dwzq@2023!
+然后点击测试环境堡垒机
+登录账号/密码： FPGA/123456
+其中10.141.63.13  是fpga linuxdemo测试；点击ssh登录， demo目录    /home/dwzq/demo_linux
+
+
+
+
+

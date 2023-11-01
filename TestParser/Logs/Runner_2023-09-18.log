@@ -1,0 +1,18 @@
+[2023.09.18 10:28:50 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.18 10:28:50 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.18 10:44:50 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.18 10:44:50 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.18 10:46:02 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.18 10:46:02 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.18 11:07:32 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.18 11:07:32 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.18 11:12:17 - error] [ParserInsight] MDCTest2859 login fail, code: 400, msg: Exceeds the maximum number of connections.
+[2023.09.18 11:12:17 - error] [ParserInsight] MDCTest2859 login fail, code: -1007, msg: 所有服务器登录失败
+[2023.09.18 11:12:18 - error] [ParserInsight] MDCTest2859 login fail, code: -1007, msg: 所有服务器登录失败
+[2023.09.18 11:12:19 - error] [ParserInsight] MDCTest2859 login fail, code: -1007, msg: 所有服务器登录失败
+[2023.09.18 11:12:20 - error] [ParserInsight] MDCTest2859 login fail, code: -1007, msg: 所有服务器登录失败
+[2023.09.18 11:12:21 - error] [ParserInsight] MDCTest2859 login fail, code: -1007, msg: 所有服务器登录失败
+[2023.09.18 11:12:22 - error] [ParserInsight] MDCTest2859 login fail, code: -1004, msg: 链路故障，接收报文失败
+[2023.09.18 11:12:23 - error] [ParserInsight] MDCTest2859 login fail, code: -1004, msg: 链路故障，接收报文失败
+[2023.09.18 11:12:24 - error] [ParserInsight] MDCTest2859 login fail, code: -1004, msg: 链路故障，接收报文失败
+[2023.09.18 11:12:25 - error] [ParserInsight] MDCTest2859 login fail, code: -1004, msg: 链路故障，接收报文失败

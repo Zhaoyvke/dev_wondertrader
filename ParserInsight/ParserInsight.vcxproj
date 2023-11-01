@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{250FA6CD-3C49-4E65-A6D4-C7854209607C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>ParserInsight</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <IncludePath>$(MyDepends141)\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(MyDepends141)\lib\x86;$(LibraryPath)</LibraryPath>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <LibraryPath>$(MyDepends141)\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf;..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\include;..\API\insight_tcp_gateway_3.2.7\include\protobuf-3.1.0\include;$(MyDepends141)\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(MyDepends141)\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(MyDepends141)\lib\x86;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf;..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\include;..\API\insight_tcp_gateway_3.2.7\include\protobuf-3.1.0\include;$(MyDepends141)\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(MyDepends141)\lib\x64;$(LibraryPath)</LibraryPath>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\</OutDir>
+    <TargetName>$(ProjectName)</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <ImportLibrary>$(OutDir)$(TargetName).lib</ImportLibrary>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Custom</Optimization>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <CompileAsWinRT>false</CompileAsWinRT>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <SupportJustMyCode>false</SupportJustMyCode>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <ImportLibrary>$(OutDir)$(TargetName).lib</ImportLibrary>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <ImportLibrary>$(OutDir)$(TargetName).lib</ImportLibrary>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <ModuleDefinitionFile>
+      </ModuleDefinitionFile>
+      <ImportLibrary>$(OutDir)$(TargetName).lib</ImportLibrary>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADChipDistribution.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADDerivedAnalysis.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADFundFlowAnalysis.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADIndicatorsRanking.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADKLine.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADNews.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshot.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshotWithTick.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADStaringResult.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADTwap.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADUpsDownsAnalysis.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVolumeByPrice.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVwap.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\DynamicPacket.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMarketDataType.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDPeriodType.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDTickLevel.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMessageType.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityIDSource.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityType.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\InsightErrorContext.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\Login.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MarketData.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBasicInfo.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBond.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexDeal.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexQuote.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDDelaySnapshot.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDETFBasicInfo.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFIQuote.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDForex.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFund.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFuture.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHighAccuracyFuture.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHKGreyMarket.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDIndex.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOption.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOrder.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDPlayback.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBQuote.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBTransaction.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuery.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuote.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDRate.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSecurityLending.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSimpleTick.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLEstimation.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLIndicativeQuote.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLOrder.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLStatistics.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLTransaction.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSpot.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDStock.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSubscribe.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDTransaction.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAOrder.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAQuote.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSATransaction.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDWarrant.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageBody.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageHeader.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\SecuritySourceType.pb.cc" />
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ServiceDiscovery.pb.cc" />
+    <ClCompile Include="ParserInsight.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\base_define.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\client_interface.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\error_define.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\log_interface.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_client_factory.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADChipDistribution.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADDerivedAnalysis.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADFundFlowAnalysis.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADIndicatorsRanking.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADKLine.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADNews.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshot.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshotWithTick.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADStaringResult.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADTwap.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADUpsDownsAnalysis.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVolumeByPrice.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVwap.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\DynamicPacket.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMarketDataType.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDPeriodType.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDTickLevel.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMessageType.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityIDSource.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityType.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\InsightErrorContext.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\Login.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MarketData.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBasicInfo.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBond.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexDeal.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexQuote.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDDelaySnapshot.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDETFBasicInfo.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFIQuote.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDForex.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFund.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFuture.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHighAccuracyFuture.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHKGreyMarket.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDIndex.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOption.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOrder.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDPlayback.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBQuote.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBTransaction.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuery.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuote.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDRate.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSecurityLending.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSimpleTick.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLEstimation.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLIndicativeQuote.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLOrder.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLStatistics.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLTransaction.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSpot.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDStock.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSubscribe.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDTransaction.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAOrder.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAQuote.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSATransaction.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDWarrant.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageBody.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageHeader.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\SecuritySourceType.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ServiceDiscovery.pb.h" />
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\message_handle.h" />
+    <ClInclude Include="ParserInsight.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

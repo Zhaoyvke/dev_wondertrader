@@ -1,0 +1,31 @@
+[2023.10.31 11:50:06 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.31 11:50:07 - info ] [parser1] Parser initialzied, check_time: false
+[2023.10.31 13:23:44 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.31 13:23:44 - info ] [parser1] Parser initialzied, check_time: false
+[2023.10.31 13:23:49 - info ] [ParserCTP] Market data server connected
+[2023.10.31 13:23:50 - info ] [ParserCTP] Market data server logined, 20231031
+[2023.10.31 13:23:51 - info ] [ParserCTP] Market data of 1 contracts subscribed totally
+[2023.10.31 13:24:45 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.31 13:24:45 - info ] [parser1] Parser initialzied, check_time: false
+[2023.10.31 13:24:55 - info ] [ParserCTP] Market data server connected
+[2023.10.31 13:24:56 - info ] [ParserCTP] Market data server logined, 20231031
+[2023.10.31 13:24:57 - info ] [ParserCTP] Market data of 1 contracts subscribed totally
+[2023.10.31 13:33:40 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.31 13:33:40 - info ] [parser1] Parser initialzied, check_time: false
+[2023.10.31 13:35:50 - info ] [ParserCTP] Market data server connected
+[2023.10.31 13:35:50 - info ] [ParserCTP] Market data server logined, 20231031
+[2023.10.31 13:36:54 - info ] [ParserCTP] Market data of 1 contracts subscribed totally
+[2023.10.31 13:57:56 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.31 13:57:56 - info ] [parser1] Parser initialzied, check_time: false
+[2023.10.31 14:06:44 - info ] [ParserCTP] Market data server connected
+[2023.10.31 14:06:54 - error] [ParserCTP] Market data server disconnected: 8193
+[2023.10.31 14:06:54 - info ] [ParserCTP] Market data server connected
+[2023.10.31 14:06:54 - info ] [ParserCTP] Market data server logined, 20231031
+[2023.10.31 14:08:07 - info ] [ParserCTP] Market data of 1 contracts subscribed totally
+[2023.10.31 14:12:38 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.31 14:12:38 - info ] [parser1] Parser initialzied, check_time: false
+[2023.10.31 14:17:23 - error] [ParserCTP] Market data server disconnected: 4097
+[2023.10.31 14:17:35 - error] [ParserCTP] Market data server disconnected: 8193
+[2023.10.31 14:17:45 - info ] [ParserCTP] Market data server connected
+[2023.10.31 14:17:45 - info ] [ParserCTP] Market data server logined, 20231031
+[2023.10.31 14:17:49 - info ] [ParserCTP] Market data of 1 contracts subscribed totally

@@ -1,0 +1,9 @@
+[2023.09.08 09:31:32 - info ] Trading sessions loaded
+[2023.09.08 09:31:32 - info ] Commodities configuration file ./common/commodities_stk.json loaded
+[2023.09.08 09:31:32 - info ] Contracts configuration file ./common/contracts_new.json loaded, 2 exchanges
+[2023.09.08 09:31:32 - info ] Holidays loaded
+[2023.09.08 09:31:32 - info ] Data storage module E:/wondertrader/src/QuoteFactory/WtDataStorage.dll loaded
+[2023.09.08 09:31:32 - info ] WtDataWriter initialized, root dir: ./STK_Data/, save_csv_tick: false, async_mode: true, log_group_size: 10000, disable_history: false, disable_tick: false, disable_min1: false, disable_min5: false, disable_day: false, disable_trans: false, disable_ordque: false, disable_orders: false, min_price_mode: 0
+[2023.09.08 09:31:32 - info ] Reading parser config from mdparsers.yaml...
+[2023.09.08 09:31:33 - info ] [parser] Parser module ParserInsight.dll loaded
+[2023.09.08 09:31:34 - info ] 1 market data parsers loaded in total

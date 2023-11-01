@@ -1,0 +1,11 @@
+
+访问方式：https://ztn.dwstock.com:10993
+登陆用户名:dzs_xiangyuan  初始密码:Dwzq@2023!
+ 
+然后打开浏览器输入堡垒机地址192.168.27.21
+登录账号/密码：  sl_test/dwzqsltest@20230706!@#
+然后点击环境10.141.43.133，点击ssh登录
+测试demo目录： /home/dwzq/API_SZE3.2_SSE4.1_22779.quote_recv_api_20220728_131617/api_report_test
+可以直接执行：/home/dwzq/API_SZE3.2_SSE4.1_22779.quote_recv_api_20220728_131617/api_report_test/bin/release/sl_efh_lev2_recv_demo
+运行了之后，可以输入show 查看收包数量，并且在当前目录下会生产.dat数据文件
+输入quit可退出demo运行

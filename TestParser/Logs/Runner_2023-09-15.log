@@ -1,0 +1,22 @@
+[2023.09.15 17:27:35 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.15 17:27:37 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.15 17:28:05 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.15 17:28:05 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.15 17:28:13 - info ] [ParserInsight] MDCTest2859 login success
+[2023.09.15 17:28:13 - info ] [ParserInsight] Connecting to [112.4.154.165] successed: 0, begin to subscibe data ...
+[2023.09.15 17:28:13 - info ] [ParserInsight] Market data of 0 instruments of SSE and 0 instruments of SZSE subscribed
+[2023.09.15 17:32:11 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.15 17:32:12 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.15 17:32:50 - info ] [ParserInsight] MDCTest2859 login success
+[2023.09.15 17:32:50 - info ] [ParserInsight] Connecting to [112.4.154.165] successed: 0, begin to subscibe data ...
+[2023.09.15 17:32:53 - info ] [ParserInsight] Market data of 0 instruments of SSE and 0 instruments of SZSE subscribed
+[2023.09.15 17:33:24 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.15 17:33:24 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.15 17:35:30 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.15 17:35:30 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.15 17:36:30 - info ] [ParserInsight] MDCTest2859 login success
+[2023.09.15 17:36:57 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.09.15 17:36:57 - info ] Contracts configuration file ./common/contracts.json loaded, 5 exchanges
+[2023.09.15 17:37:13 - info ] [ParserInsight] MDCTest2859 login success
+[2023.09.15 17:37:21 - info ] [ParserInsight] Connecting to [112.4.154.165] successed: 0, begin to subscibe data ...
+[2023.09.15 17:37:47 - info ] [ParserInsight] Market data of 0 instruments of SSE and 0 instruments of SZSE subscribed

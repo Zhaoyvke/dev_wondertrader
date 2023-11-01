@@ -1,0 +1,17 @@
+config:
+    session: ./common/sessions.json
+    commodity: ./common/stk_comms.json
+    contract: ./common/stocks.json
+    profile: qtsTest
+    parser: ParserQTS.dll
+qtsTest:
+    host: '10.1.240.14'
+    port: '8811'
+    user: 'yb001'
+    pass: '123456'
+    heartbeat: '30'
+    NetType: '0'
+
+    
+    
+    

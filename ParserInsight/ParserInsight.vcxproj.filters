@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Insight">
+      <UniqueIdentifier>{493d34df-f208-4afd-9032-eb5ac45af631}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ParserInsight.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADChipDistribution.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADDerivedAnalysis.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADFundFlowAnalysis.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADIndicatorsRanking.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADKLine.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADNews.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshot.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshotWithTick.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADStaringResult.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADTwap.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADUpsDownsAnalysis.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVolumeByPrice.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVwap.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\DynamicPacket.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMarketDataType.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDPeriodType.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDTickLevel.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMessageType.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityIDSource.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityType.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\InsightErrorContext.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\Login.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MarketData.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBasicInfo.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBond.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexDeal.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexQuote.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDDelaySnapshot.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDETFBasicInfo.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFIQuote.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDForex.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFund.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFuture.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHighAccuracyFuture.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHKGreyMarket.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDIndex.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOption.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOrder.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDPlayback.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBQuote.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBTransaction.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuery.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuote.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDRate.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSecurityLending.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSimpleTick.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLEstimation.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLIndicativeQuote.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLOrder.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLStatistics.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLTransaction.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSpot.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDStock.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSubscribe.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDTransaction.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAOrder.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAQuote.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSATransaction.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDWarrant.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageBody.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageHeader.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\SecuritySourceType.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ServiceDiscovery.pb.cc">
+      <Filter>Insight</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ParserInsight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\base_define.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\client_interface.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\error_define.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\log_interface.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_client_factory.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\message_handle.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADChipDistribution.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADDerivedAnalysis.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADFundFlowAnalysis.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADIndicatorsRanking.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADKLine.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADNews.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshot.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADOrderbookSnapshotWithTick.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADStaringResult.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADTwap.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADUpsDownsAnalysis.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVolumeByPrice.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ADVwap.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\DynamicPacket.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMarketDataType.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDPeriodType.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMDTickLevel.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\EMessageType.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityIDSource.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ESecurityType.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\InsightErrorContext.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\Login.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MarketData.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBasicInfo.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDBond.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexDeal.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDCnexQuote.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDDelaySnapshot.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDETFBasicInfo.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFIQuote.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDForex.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFund.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDFuture.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHighAccuracyFuture.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDHKGreyMarket.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDIndex.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOption.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDOrder.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDPlayback.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBQuote.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQBTransaction.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuery.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDQuote.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDRate.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSecurityLending.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSimpleTick.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLEstimation.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLIndicativeQuote.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLOrder.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLStatistics.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSLTransaction.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSpot.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDStock.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDSubscribe.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDTransaction.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAOrder.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSAQuote.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDUSATransaction.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MDWarrant.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageBody.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\MessageHeader.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\SecuritySourceType.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\API\insight_tcp_gateway_3.2.7\include\mdc_gateway_client\protobuf\ServiceDiscovery.pb.h">
+      <Filter>Insight</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+[2023.10.31 11:50:12 - info ] Market Data subscribed: SHFE.rb.2401
+[2023.10.31 11:50:16 - info ] 回调策略on_init
+[2023.10.31 13:23:44 - info ] Market Data subscribed: SHFE.rb.2401
+[2023.10.31 13:23:44 - info ] 回调策略on_init
+[2023.10.31 13:23:56 - info ] 策略回调 on_tick. date: 20231031, time: 112959, price: 3728
+[2023.10.31 13:24:45 - info ] Market Data subscribed: SHFE.rb.2401
+[2023.10.31 13:24:45 - info ] 回调策略on_init
+[2023.10.31 13:24:58 - info ] 策略回调 on_tick. date: 20231031, time: 112959, price: 3728
+[2023.10.31 13:35:13 - info ] Market Data subscribed: SHFE.rb.2401
+[2023.10.31 13:35:15 - info ] 回调策略on_init
+[2023.10.31 14:04:04 - info ] Market Data subscribed: SHFE.rb.2401
+[2023.10.31 14:04:06 - info ] 回调策略on_init
+[2023.10.31 14:11:03 - info ] 策略回调 on_tick. date: 20231031, time: 140807, price: 3734
+[2023.10.31 14:11:18 - info ] 策略回调 on_tick. date: 20231031, time: 140818, price: 3734
+[2023.10.31 14:11:25 - info ] 策略回调 on_tick. date: 20231031, time: 140822, price: 3734
+[2023.10.31 14:13:20 - info ] Market Data subscribed: SHFE.rb.2401
+[2023.10.31 14:13:21 - info ] 回调策略on_init

@@ -1,0 +1,80 @@
+﻿  filter_symbol.cpp
+  main.cpp
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\main.cpp(273): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  profile.cpp
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\profile.cpp(8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\profile.cpp(170): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\profile.cpp(189): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\profile.cpp(195): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\profile.cpp(217): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  sse_report.cpp
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(116): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(140): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(147): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(207): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(215): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(458): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(545): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(637): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(712): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(737): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(805): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(830): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(919): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1013): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1115): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1186): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1219): warning C4244: “=”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1257): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1362): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1418): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1471): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1521): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1572): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1629): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1693): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1748): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1803): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sse_report.cpp(1861): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  sze_report.cpp
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(111): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(136): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(143): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(203): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(211): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(441): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(512): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(565): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(602): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(627): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(664): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(700): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(725): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(792): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(859): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(947): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1021): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1088): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1141): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1177): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1202): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1238): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1274): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1299): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1401): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1450): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1504): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1563): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1613): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1681): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1734): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1783): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1832): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1881): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\wondertrader-dev (1)\wondertrader-dev\src\parsershengli\api_sze3.2_sse4.3_25436.quote_recv_api_20230227_154536\api_report_test\sze_report.cpp(1940): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  系统找不到指定的文件。
+D:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: 命令“copy D:\wondertrader-dev (1)\wondertrader-dev\src\ParserShengLi\API_SZE3.2_SSE4.3_25436.quote_recv_api_20230227_154536\api_report_test\..\efh_lev2_api\windows\x64\debug\*.dll D:\wondertrader-dev (1)\wondertrader-dev\src\ParserShengLi\API_SZE3.2_SSE4.3_25436.quote_recv_api_20230227_154536\api_report_test\\
+D:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd”已退出，代码为 1。

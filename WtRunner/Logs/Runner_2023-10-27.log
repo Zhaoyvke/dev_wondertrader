@@ -1,0 +1,506 @@
+[2023.10.27 11:19:59 - warning] No session configured for INE.ec
+[2023.10.27 11:19:59 - warning] No session configured for SHFE.ao
+[2023.10.27 11:19:59 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 11:19:59 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 11:19:59 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 11:19:59 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 11:19:59 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 11:19:59 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 11:19:59 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 11:19:59 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 11:19:59 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 11:19:59 - info ] Running mode: Production
+[2023.10.27 11:19:59 - info ] 44 fee templates loaded
+[2023.10.27 11:19:59 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 11:19:59 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 11:19:59 - debug] Storage initialized @ /
+[2023.10.27 11:19:59 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 11:19:59 - info ] Data manager initialized
+[2023.10.27 11:22:50 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 11:22:50 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 11:22:50 - info ] 1 parsers loaded
+[2023.10.27 11:23:00 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 11:23:01 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 11:23:12 - info ] 1 traders loaded
+[2023.10.27 11:25:46 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 11:25:46 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 11:30:05 - warning] No session configured for INE.ec
+[2023.10.27 11:30:05 - warning] No session configured for SHFE.ao
+[2023.10.27 11:30:05 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 11:30:05 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 11:30:05 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 11:30:05 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 11:30:05 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 11:30:05 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 11:30:05 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 11:30:05 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 11:30:05 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 11:30:05 - info ] Running mode: Production
+[2023.10.27 11:30:05 - info ] 44 fee templates loaded
+[2023.10.27 11:30:05 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 11:30:05 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 11:30:05 - debug] Storage initialized @ /
+[2023.10.27 11:30:05 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 11:30:05 - info ] Data manager initialized
+[2023.10.27 11:30:08 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 11:30:08 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 11:30:08 - info ] 1 parsers loaded
+[2023.10.27 11:30:09 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 11:30:10 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 11:30:15 - info ] 1 traders loaded
+[2023.10.27 11:30:22 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 11:30:22 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 11:30:59 - info ] 1 parsers started
+[2023.10.27 11:31:14 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 11:31:19 - info ] 1 trading channels started
+[2023.10.27 11:31:23 - debug] His min1 bars of CFFEX.IC.2311 loaded, 0 from history, 0 from realtime
+[2023.10.27 11:31:23 - info ] Market Data subscribed: CFFEX.IC.2311
+[2023.10.27 11:31:23 - info ] 回调策略on_init
+[2023.10.27 11:35:52 - warning] No session configured for INE.ec
+[2023.10.27 11:35:52 - warning] No session configured for SHFE.ao
+[2023.10.27 11:35:52 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 11:35:52 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 11:35:52 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 11:35:52 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 11:35:52 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 11:35:52 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 11:35:52 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 11:35:52 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 11:35:52 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 11:35:52 - info ] Running mode: Production
+[2023.10.27 11:35:52 - info ] 44 fee templates loaded
+[2023.10.27 11:35:52 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 11:35:52 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 11:35:53 - debug] Storage initialized @ /
+[2023.10.27 11:35:53 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 11:35:53 - info ] Data manager initialized
+[2023.10.27 11:35:54 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 11:35:54 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 11:35:54 - info ] 1 parsers loaded
+[2023.10.27 11:35:55 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 11:35:56 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 11:35:58 - info ] 1 traders loaded
+[2023.10.27 11:36:03 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 11:36:03 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 11:36:19 - info ] 1 parsers started
+[2023.10.27 11:36:26 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 11:36:26 - info ] 1 trading channels started
+[2023.10.27 11:36:39 - debug] His min1 bars of CFFEX.IC.2311 loaded, 0 from history, 0 from realtime
+[2023.10.27 11:37:01 - info ] Market Data subscribed: CFFEX.IC.2311
+[2023.10.27 11:37:05 - info ] 回调策略on_init
+[2023.10.27 13:02:31 - warning] No session configured for INE.ec
+[2023.10.27 13:02:31 - warning] No session configured for SHFE.ao
+[2023.10.27 13:02:31 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:02:32 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:02:32 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:02:32 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:02:32 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:02:32 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:02:32 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:02:32 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:02:32 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:02:32 - info ] Running mode: Production
+[2023.10.27 13:02:32 - info ] 44 fee templates loaded
+[2023.10.27 13:02:32 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:02:32 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:02:32 - debug] Storage initialized @ /
+[2023.10.27 13:02:32 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:02:32 - info ] Data manager initialized
+[2023.10.27 13:02:35 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:02:35 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:02:35 - info ] 1 parsers loaded
+[2023.10.27 13:02:36 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:02:36 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:02:37 - info ] 1 traders loaded
+[2023.10.27 13:02:38 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:02:38 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:02:51 - info ] 1 parsers started
+[2023.10.27 13:03:06 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 13:03:06 - info ] 1 trading channels started
+[2023.10.27 13:03:59 - debug] His min1 bars of CFFEX.IC.2310 loaded, 0 from history, 0 from realtime
+[2023.10.27 13:06:49 - info ] Market Data subscribed: CFFEX.IC.2310
+[2023.10.27 13:06:52 - info ] 回调策略on_init
+[2023.10.27 13:09:21 - warning] No session configured for INE.ec
+[2023.10.27 13:09:21 - warning] No session configured for SHFE.ao
+[2023.10.27 13:09:21 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:09:21 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:09:21 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:09:21 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:09:21 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:09:21 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:09:21 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:09:21 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:09:21 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:09:21 - info ] Running mode: Production
+[2023.10.27 13:09:21 - info ] 44 fee templates loaded
+[2023.10.27 13:09:21 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:09:21 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:09:21 - debug] Storage initialized @ /
+[2023.10.27 13:09:21 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:09:21 - info ] Data manager initialized
+[2023.10.27 13:09:24 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:09:24 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:09:24 - info ] 1 parsers loaded
+[2023.10.27 13:09:28 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:09:50 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:10:08 - info ] 1 traders loaded
+[2023.10.27 13:10:38 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:10:38 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:27:09 - warning] No session configured for INE.ec
+[2023.10.27 13:27:09 - warning] No session configured for SHFE.ao
+[2023.10.27 13:27:09 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:27:09 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:27:09 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:27:09 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:27:09 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:27:09 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:27:09 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:27:09 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:27:09 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:27:09 - info ] Running mode: Production
+[2023.10.27 13:27:09 - info ] 44 fee templates loaded
+[2023.10.27 13:27:09 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:27:09 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:27:09 - debug] Storage initialized @ /
+[2023.10.27 13:27:09 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:27:09 - info ] Data manager initialized
+[2023.10.27 13:27:09 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:27:09 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:27:09 - info ] 1 parsers loaded
+[2023.10.27 13:27:09 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:27:10 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:27:14 - info ] 1 traders loaded
+[2023.10.27 13:27:17 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:27:17 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:27:29 - info ] 1 parsers started
+[2023.10.27 13:27:36 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 13:27:36 - info ] 1 trading channels started
+[2023.10.27 13:27:40 - debug] His min1 bars of CFFEX.IC.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 13:27:41 - info ] Market Data subscribed: CFFEX.IC.2309
+[2023.10.27 13:27:42 - info ] 回调策略on_init
+[2023.10.27 13:31:04 - warning] No session configured for INE.ec
+[2023.10.27 13:31:04 - warning] No session configured for SHFE.ao
+[2023.10.27 13:31:04 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:31:04 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:31:04 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:31:04 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:31:04 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:31:04 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:31:04 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:31:04 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:31:04 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:31:04 - info ] Running mode: Production
+[2023.10.27 13:31:04 - info ] 44 fee templates loaded
+[2023.10.27 13:31:04 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:31:04 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:31:04 - debug] Storage initialized @ /
+[2023.10.27 13:31:04 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:31:04 - info ] Data manager initialized
+[2023.10.27 13:31:04 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:31:04 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:31:04 - info ] 1 parsers loaded
+[2023.10.27 13:31:04 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:31:05 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:31:11 - info ] 1 traders loaded
+[2023.10.27 13:31:16 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:31:16 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:31:58 - info ] 1 parsers started
+[2023.10.27 13:32:04 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 13:32:04 - info ] 1 trading channels started
+[2023.10.27 13:36:55 - debug] His min1 bars of CFFEX.IC.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 13:37:53 - info ] Market Data subscribed: CFFEX.IC.2309
+[2023.10.27 13:38:14 - info ] 回调策略on_init
+[2023.10.27 13:42:22 - warning] No session configured for INE.ec
+[2023.10.27 13:42:22 - warning] No session configured for SHFE.ao
+[2023.10.27 13:42:22 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:42:22 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:42:22 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:42:22 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:42:22 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:42:22 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:42:22 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:42:22 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:42:23 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:42:23 - info ] Running mode: Production
+[2023.10.27 13:42:23 - info ] 44 fee templates loaded
+[2023.10.27 13:42:23 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:42:23 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:42:23 - debug] Storage initialized @ /
+[2023.10.27 13:42:23 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:42:23 - info ] Data manager initialized
+[2023.10.27 13:42:23 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:42:23 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:42:23 - info ] 1 parsers loaded
+[2023.10.27 13:42:23 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:42:24 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:42:24 - info ] 1 traders loaded
+[2023.10.27 13:42:29 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:42:29 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:42:46 - info ] 1 parsers started
+[2023.10.27 13:42:50 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 13:42:53 - info ] 1 trading channels started
+[2023.10.27 13:42:59 - debug] His min1 bars of CFFEX.IC.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 13:43:02 - info ] Market Data subscribed: CFFEX.IC.2309
+[2023.10.27 13:43:03 - info ] 回调策略on_init
+[2023.10.27 13:44:42 - warning] No session configured for INE.ec
+[2023.10.27 13:44:42 - warning] No session configured for SHFE.ao
+[2023.10.27 13:44:42 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:44:42 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:44:42 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:44:42 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:44:42 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:44:42 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:44:42 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:44:43 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:44:43 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:44:43 - info ] Running mode: Production
+[2023.10.27 13:44:43 - info ] 44 fee templates loaded
+[2023.10.27 13:44:43 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:44:43 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:44:43 - debug] Storage initialized @ /
+[2023.10.27 13:44:43 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:44:43 - info ] Data manager initialized
+[2023.10.27 13:44:43 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:44:43 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:44:43 - info ] 1 parsers loaded
+[2023.10.27 13:44:43 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:44:44 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:44:44 - info ] 1 traders loaded
+[2023.10.27 13:45:28 - warning] No session configured for INE.ec
+[2023.10.27 13:45:28 - warning] No session configured for SHFE.ao
+[2023.10.27 13:45:28 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:45:29 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:45:29 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:45:29 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:45:29 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:45:29 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:45:29 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:45:29 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:45:29 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:45:29 - info ] Running mode: Production
+[2023.10.27 13:45:29 - info ] 44 fee templates loaded
+[2023.10.27 13:45:29 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:45:29 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:45:29 - debug] Storage initialized @ /
+[2023.10.27 13:45:29 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:45:29 - info ] Data manager initialized
+[2023.10.27 13:45:29 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:45:29 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:45:29 - info ] 1 parsers loaded
+[2023.10.27 13:45:29 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:45:29 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:45:29 - info ] 1 traders loaded
+[2023.10.27 13:45:33 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:45:33 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:45:46 - info ] 1 parsers started
+[2023.10.27 13:45:54 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 13:45:54 - info ] 1 trading channels started
+[2023.10.27 13:46:25 - debug] His min1 bars of CFFEX.IC.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 13:46:48 - warning] No session configured for INE.ec
+[2023.10.27 13:46:48 - warning] No session configured for SHFE.ao
+[2023.10.27 13:46:48 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 13:46:48 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 13:46:48 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 13:46:48 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 13:46:48 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 13:46:48 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 13:46:48 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 13:46:48 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 13:46:49 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 13:46:49 - info ] Running mode: Production
+[2023.10.27 13:46:49 - info ] 44 fee templates loaded
+[2023.10.27 13:46:49 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 13:46:49 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 13:46:49 - debug] Storage initialized @ /
+[2023.10.27 13:46:49 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 13:46:49 - info ] Data manager initialized
+[2023.10.27 13:46:49 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 13:46:49 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 13:46:49 - info ] 1 parsers loaded
+[2023.10.27 13:46:49 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 13:46:50 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 13:46:50 - info ] 1 traders loaded
+[2023.10.27 13:46:53 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 13:46:53 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 13:47:00 - info ] 1 parsers started
+[2023.10.27 13:47:04 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 13:47:04 - info ] 1 trading channels started
+[2023.10.27 13:47:15 - debug] His min1 bars of CFFEX.IC.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 14:09:11 - warning] No session configured for INE.ec
+[2023.10.27 14:09:11 - warning] No session configured for SHFE.ao
+[2023.10.27 14:09:11 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 14:09:11 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 14:09:11 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 14:09:11 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 14:09:11 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 14:09:11 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 14:09:11 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 14:09:11 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 14:09:11 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 14:09:11 - info ] Running mode: Production
+[2023.10.27 14:09:11 - info ] 44 fee templates loaded
+[2023.10.27 14:09:11 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 14:09:11 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 14:09:11 - debug] Storage initialized @ /
+[2023.10.27 14:09:11 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 14:09:11 - info ] Data manager initialized
+[2023.10.27 14:09:11 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 14:09:11 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 14:09:11 - info ] 1 parsers loaded
+[2023.10.27 14:09:11 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 14:09:12 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 14:09:12 - info ] 1 traders loaded
+[2023.10.27 14:09:16 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 14:09:16 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded
+[2023.10.27 14:09:46 - info ] 1 parsers started
+[2023.10.27 14:09:53 - info ] registerFront: tcp://122.51.136.165:20002
+[2023.10.27 14:09:57 - info ] 1 trading channels started
+[2023.10.27 14:10:13 - debug] His min1 bars of CFFEX.IF.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 14:10:19 - debug] His min1 bars of CFFEX.IH.2309 loaded, 0 from history, 0 from realtime
+[2023.10.27 14:10:25 - info ] Market Data subscribed: CFFEX.IH.2309
+[2023.10.27 14:10:27 - info ] Market Data subscribed: CFFEX.IC.2309
+[2023.10.27 14:10:29 - info ] Market Data subscribed: CFFEX.IF.2309
+[2023.10.27 14:10:32 - info ] 回调策略on_init
+[2023.10.27 14:13:01 - warning] No session configured for INE.ec
+[2023.10.27 14:13:01 - warning] No session configured for SHFE.ao
+[2023.10.27 14:13:01 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.27 14:13:01 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.27 14:13:01 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.27 14:13:01 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.27 14:13:01 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.27 14:13:01 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.27 14:13:01 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.27 14:13:01 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.27 14:13:01 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.27 14:13:01 - info ] Running mode: Production
+[2023.10.27 14:13:01 - info ] 44 fee templates loaded
+[2023.10.27 14:13:01 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.27 14:13:01 - info ] Resampled bars will be aligned by section:  not
+[2023.10.27 14:13:01 - debug] Storage initialized @ /
+[2023.10.27 14:13:01 - info ] No adjusting factor file configured, loading skipped
+[2023.10.27 14:13:01 - info ] Data manager initialized
+[2023.10.27 14:13:01 - info ] [tts24] Parser module E:/wondertrader/src/WtRunner/parsers/ParserCTP.dll loaded
+[2023.10.27 14:13:01 - info ] [tts24] Parser initialzied, check_time: false
+[2023.10.27 14:13:01 - info ] 1 parsers loaded
+[2023.10.27 14:13:01 - warning] [tts24] Risk control rule of trading channel not activated
+[2023.10.27 14:13:04 - info ] [tts24] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.27 14:13:04 - info ] 1 traders loaded
+[2023.10.27 14:13:09 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.27 14:13:09 - info ] 1 HFT strategy factories in directory[E:/wondertrader/src/WtRunner/hft/] loaded

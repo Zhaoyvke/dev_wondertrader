@@ -1,0 +1,11 @@
+parsers:
+-   active: true
+    broker: '9999'
+    code: 'SHFE.rb2401'
+    front: tcp://180.168.146.187:10211
+    id: parser1
+    module: ParserCTP
+    #ctpmodule: thosttraderapi_se
+    pass: 'qq442037632!'
+    user: '211887'
+    flowdir:CTPTDFLOW

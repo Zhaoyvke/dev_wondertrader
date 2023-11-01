@@ -1,0 +1,44 @@
+config:
+    session: ./common/sessions.json
+    commodity: ./common/commodities_stk.json
+    contract: ./common/contracts_new.json
+    profile: AMATest
+    parser: ParserAMA.dll
+    
+AMATest:
+
+    host: '59.36.5.49'  
+    port: '5555'
+    user: 'wuzhi_l2_out'
+    password: '123321'
+                    
+    entry_size: '10'                             
+    order_queue_size: '10'                       
+    thread_num: '3'                              
+    order_book_deliver_interval_microsecond: '0' 
+    channel_mode: '0x00000008'
+    tcp_compress_mode: '0'
+    ha_mode: '0'
+    min_log_level: '2'
+    keep_order_timeout_ms: '3000'
+    
+    ums_server_cnt: '2'
+    local_ip: '0.0.0.0'
+    enable_order_book: '0'  
+    
+    is_output_mon_data: false
+    keep_order: false
+    is_subscribe_full: false
+    is_thread_safe: false
+    has_order: false
+    has_trans: false
+    has_orderqueue: false
+    has_snapshot: true
+    has_fp: false
+    has_arbitrage: false
+    
+
+    
+
+    
+

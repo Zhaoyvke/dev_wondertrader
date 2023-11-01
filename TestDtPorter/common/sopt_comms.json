@@ -1,0 +1,54 @@
+{
+    "SSE": {
+		"ETF": {
+            "covermode": 0,
+            "pricemode": 0,
+            "category": 4,
+            "precision": 3,
+            "pricetick": 0.001,
+            "volscale": 100,
+            "name": "��֤ETF",
+            "exchg": "SSE",
+            "session": "SD0930",
+            "holiday": "CHINA"
+        },
+        "ETFO": {
+            "covermode": 0,
+            "pricemode": 0,
+            "category": 7,
+            "precision": 4,
+            "pricetick": 0.0001,
+            "volscale": 10000,
+            "name": "��֤ETF��Ȩ",
+            "exchg": "SSE",
+            "session": "SD0930",
+            "holiday": "CHINA"
+        }
+    },
+    "SZSE": {
+		"ETF": {
+            "covermode": 0,
+            "pricemode": 0,
+            "category": 4,
+            "precision": 3,
+            "pricetick": 0.001,
+            "volscale": 100,
+            "name": "��֤ETF",
+            "exchg": "SZSE",
+            "session": "SD0930",
+            "holiday": "CHINA"
+        },
+        "ETFO": {
+            "covermode": 0,
+            "pricemode": 0,
+            "category": 7,
+            "precision": 4,
+            "pricetick": 0.0001,
+            "volscale": 10000,
+            "name": "��֤ETF��Ȩ",
+            "exchg": "SZSE",
+            "session": "SD0930",
+            "holiday": "CHINA"
+        }
+    }
+}

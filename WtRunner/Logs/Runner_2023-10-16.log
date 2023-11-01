@@ -1,0 +1,25 @@
+[2023.10.16 17:16:06 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.10.16 17:16:06 - info ] Contracts configuration file ../common/contracts.json loaded, 5 exchanges
+[2023.10.16 17:16:06 - info ] Trading enviroment initialzied with engine: HFT
+[2023.10.16 17:16:06 - info ] Platform running mode: Production
+[2023.10.16 17:16:06 - info ] 36 fee templates loaded
+[2023.10.16 17:16:06 - warning] RiskMon is not configured, portfilio fund will be updated every 5s
+[2023.10.16 17:16:06 - debug] Storage initialized @ ../FUT_Data/
+[2023.10.16 17:16:06 - info ] No adjusting factor file configured, loading skipped
+[2023.10.16 17:16:06 - info ] Data manager initialized
+[2023.10.16 17:16:06 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.16 17:16:06 - info ] [parser] Parser module E:/wondertrader/dist/WtRunnerHft/parsers/ParserCTP.dll loaded
+[2023.10.16 17:16:06 - info ] 1 parsers loaded
+[2023.10.16 17:16:06 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.16 17:16:06 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.16 17:16:06 - info ] [simnow] Trader module E:/wondertrader/dist/WtRunnerHft/traders/TraderCTP.dll loaded
+[2023.10.16 17:16:06 - info ] 1 traders loaded
+[2023.10.16 17:16:06 - info ] HFT strategy factory[WtHftStraFact] loaded
+[2023.10.16 17:16:06 - info ] 1 HFT strategy factories in directory[E:/wondertrader/dist/WtRunnerHft/hft/] loaded
+[2023.10.16 17:16:06 - info ] 1 parsers started
+[2023.10.16 17:16:06 - info ] 1 trading channels started
+[2023.10.16 17:16:06 - info ] 0 items of back min1 data of CFFEX.IF.HOT cached
+[2023.10.16 17:16:06 - info ] Hot contract on 20231016  confirmed: CFFEX.IF.HOT -> IF2204
+[2023.10.16 17:16:06 - debug] His min1 bars of CFFEX.IF.HOT loaded, 0 from history, 0 from realtime
+[2023.10.16 17:16:06 - info ] Market Data subscribed: CFFEX.IF.HOT
+[2023.10.16 17:16:06 - info ] Trading day 20231016 begun

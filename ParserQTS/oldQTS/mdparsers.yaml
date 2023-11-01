@@ -1,0 +1,8 @@
+parsers:
+-   active: true
+    host: '10.1.240.14'
+    port: '8811'
+    user: 'yb001'
+    pass: '123456'
+    heartbeat: '30'
+    NetType: '0'

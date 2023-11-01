@@ -1,0 +1,35 @@
+parsers:
+-   active: true
+    id: parser3
+    module: ParserAMA
+   
+    host: '113.96.40.99'
+    port: '41000'
+    ums_server_cnt:'2'
+    local_ip: '192.168.110.158'
+    user:'wuzhi_l2_out'
+    password:'123321'
+    enable_order_book: '0'                      
+    entry_size:'10'                             
+    order_queue_size:'10'                       
+    thread_num:'3'                              
+    order_book_deliver_interval_microsecond:'0' 
+    channel_mode: '0x00000008'
+    tcp_compress_mode: '0'
+    ha_mode:'0'
+    min_log_level:'1'
+    keep_order_timeout_ms:'3000'
+    
+    is_output_mon_data:false
+    keep_order: false
+    is_subscribe_full:false
+    is_thread_safe:false
+
+
+
+
+
+
+                                                             
+    
+  

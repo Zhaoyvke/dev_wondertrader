@@ -1,0 +1,72 @@
+[2023.10.31 11:50:07 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.31 11:50:07 - info ] [simnow] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.31 11:50:12 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.10.31 13:23:44 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.31 13:23:44 - info ] [simnow] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.31 13:23:44 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.10.31 13:23:56 - info ] [TraderCTP][9999-102328] Login succeed, AppID: simnow_client_test, Sessionid: 2410155462, login time: 13:23:57...
+[2023.10.31 13:23:56 - info ] [TraderCTP][9999-102328] Login succeed, trading date: 20231031...
+[2023.10.31 13:23:56 - info ] [TraderCTP][9999-102328] Querying confirming state of settlement data...
+[2023.10.31 13:23:56 - info ] [TraderCTP][9999-102328] Trading channel initialized...
+[2023.10.31 13:23:56 - info ] [simnow] Trader login succeed, trading date: 20231031
+[2023.10.31 13:23:57 - info ] [simnow] CZCE.CF.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] CZCE.MA.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] SHFE.cu.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] SHFE.al.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] SHFE.ss.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] SHFE.zn.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] DCE.p.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] DCE.l.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] DCE.y.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:23:57 - info ] [simnow] Position data updated
+[2023.10.31 13:23:59 - info ] [simnow] CZCE.CF.2401 action stats updated, long opened: 1, long closed: 1, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] CZCE.MA.2401 action stats updated, long opened: 3, long closed: 6, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] SHFE.al.2312 action stats updated, long opened: 7, long closed: 0, new long closed: 7, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] SHFE.cu.2312 action stats updated, long opened: 1, long closed: 1, new long closed: 1, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] SHFE.ss.2312 action stats updated, long opened: 4, long closed: 4, new long closed: 4, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] SHFE.zn.2312 action stats updated, long opened: 1, long closed: 1, new long closed: 1, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] DCE.l.2401 action stats updated, long opened: 0, long closed: 2, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] DCE.y.2401 action stats updated, long opened: 0, long closed: 3, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:23:59 - info ] [simnow] DCE.p.2401 action stats updated, long opened: 0, long closed: 2, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:24:00 - info ] [simnow] Trading channel ready
+[2023.10.31 13:24:45 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.31 13:24:45 - info ] [simnow] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.31 13:24:45 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.10.31 13:24:58 - info ] [TraderCTP][9999-102328] Login succeed, AppID: simnow_client_test, Sessionid: 2414159890, login time: 13:24:59...
+[2023.10.31 13:24:58 - info ] [TraderCTP][9999-102328] Login succeed, trading date: 20231031...
+[2023.10.31 13:24:58 - info ] [TraderCTP][9999-102328] Querying confirming state of settlement data...
+[2023.10.31 13:24:58 - info ] [TraderCTP][9999-102328] Trading channel initialized...
+[2023.10.31 13:24:58 - info ] [simnow] Trader login succeed, trading date: 20231031
+[2023.10.31 13:24:59 - info ] [simnow] CZCE.CF.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] CZCE.MA.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] SHFE.cu.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] SHFE.al.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] SHFE.ss.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] SHFE.zn.2312 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] DCE.p.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] DCE.l.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] DCE.y.2401 position updated, long:0[0]|0[0], short:0[0]|0[0]
+[2023.10.31 13:24:59 - info ] [simnow] Position data updated
+[2023.10.31 13:25:01 - info ] [simnow] CZCE.CF.2401 action stats updated, long opened: 1, long closed: 1, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] CZCE.MA.2401 action stats updated, long opened: 3, long closed: 6, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] SHFE.al.2312 action stats updated, long opened: 7, long closed: 0, new long closed: 7, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] SHFE.cu.2312 action stats updated, long opened: 1, long closed: 1, new long closed: 1, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] SHFE.ss.2312 action stats updated, long opened: 4, long closed: 4, new long closed: 4, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] SHFE.zn.2312 action stats updated, long opened: 1, long closed: 1, new long closed: 1, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] DCE.l.2401 action stats updated, long opened: 0, long closed: 2, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] DCE.y.2401 action stats updated, long opened: 0, long closed: 3, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:01 - info ] [simnow] DCE.p.2401 action stats updated, long opened: 0, long closed: 2, new long closed: 0, short opened: 0, short closed: 0, new short closed: 0
+[2023.10.31 13:25:02 - info ] [simnow] Trading channel ready
+[2023.10.31 13:33:55 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.31 13:33:55 - info ] [simnow] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.31 13:34:10 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.10.31 13:58:25 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.31 13:58:25 - info ] [simnow] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.31 14:03:16 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.10.31 14:11:03 - error] [simnow] Trading channel disconnected: 4097
+[2023.10.31 14:11:06 - error] [simnow] Trading channel disconnected: 8193
+[2023.10.31 14:12:41 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.31 14:12:41 - info ] [simnow] Trader module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll loaded
+[2023.10.31 14:12:42 - info ] registerFront: tcp://180.168.146.187:10201
+[2023.10.31 14:16:32 - error] [simnow] Trading channel disconnected: 4097
+[2023.10.31 14:17:23 - error] [simnow] Trading channel disconnected: 8193

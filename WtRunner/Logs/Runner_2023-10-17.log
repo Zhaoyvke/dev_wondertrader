@@ -1,0 +1,170 @@
+[2023.10.17 15:47:59 - error] Trading sessions configuration file ../common/sessions.json not exists
+[2023.10.17 15:48:00 - error] Commodities configuration file ../common/commodities.json not exists
+[2023.10.17 16:03:05 - error] Trading sessions configuration file ../common/sessions.json not exists
+[2023.10.17 16:03:06 - error] Commodities configuration file ../common/commodities.json not exists
+[2023.10.17 16:03:07 - error] Contracts configuration file ../common/contracts.json not exists
+[2023.10.17 16:03:08 - error] Holidays configuration file ../common/holidays.json not exists
+[2023.10.17 16:03:34 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.17 16:06:50 - error] Trading sessions configuration file ../common/sessions.json not exists
+[2023.10.17 16:08:04 - warning] No session configured for INE.ec
+[2023.10.17 16:08:04 - warning] No session configured for SHFE.ao
+[2023.10.17 16:08:04 - info ] Commodities configuration file ../common/commodities.json loaded
+[2023.10.17 16:08:08 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.17 16:08:08 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.17 16:08:08 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.17 16:08:08 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.17 16:08:08 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.17 16:08:08 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.17 16:08:08 - info ] Contracts configuration file ../common/contracts.json loaded, 6 exchanges
+[2023.10.17 16:14:04 - warning] No session configured for INE.ec
+[2023.10.17 16:14:04 - warning] No session configured for SHFE.ao
+[2023.10.17 16:14:04 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.17 16:14:07 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.17 16:14:07 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.17 16:14:07 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.17 16:14:07 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.17 16:14:07 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.17 16:14:07 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.17 16:14:07 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.17 16:25:45 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.17 16:25:46 - info ] Running mode: Production
+[2023.10.17 16:25:46 - info ] 44 fee templates loaded
+[2023.10.17 16:25:49 - info ] [RiskControl] Params inited, Checking frequency: 0 s, MaxIDD: OFF(0.00%), MaxMDD: OFF(0.00%), Capital: 0.0, Profit Boudary: 0.00%, Calc Span: 0 mins, Risk Scale: 0.00
+[2023.10.17 16:26:09 - info ] Resampled bars will be aligned by section:  not
+[2023.10.17 16:26:10 - debug] Storage initialized @ /
+[2023.10.17 16:26:10 - info ] No adjusting factor file configured, loading skipped
+[2023.10.17 16:26:14 - info ] Data manager initialized
+[2023.10.17 16:26:25 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.17 16:26:34 - error] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserUDP.dll loading failed
+[2023.10.17 16:26:45 - info ] 1 parsers loaded
+[2023.10.17 16:26:54 - info ] Reading trader config from tdtraders.yaml...
+[2023.10.17 16:26:55 - info ] [simnow] Risk control rule default of trading channel loaded
+[2023.10.17 16:26:55 - error] [simnow] Loading trading module E:/wondertrader/src/WtRunner/traders/TraderCTP.dll failed
+[2023.10.17 16:26:55 - info ] 1 traders loaded
+[2023.10.17 16:27:04 - info ] Reading executer config from executers.yaml...
+[2023.10.17 16:27:05 - info ] 0 executers loaded
+[2023.10.17 16:27:16 - warning] No session configured for INE.ec
+[2023.10.17 16:27:16 - warning] No session configured for SHFE.ao
+[2023.10.17 16:27:16 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.17 16:27:16 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.17 16:27:16 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.17 16:27:16 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.17 16:27:16 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.17 16:27:16 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.17 16:27:16 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.17 16:27:16 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.17 16:27:23 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.17 16:27:23 - info ] Running mode: Production
+[2023.10.17 16:27:23 - info ] 44 fee templates loaded
+[2023.10.17 16:27:23 - info ] [RiskControl] Params inited, Checking frequency: 0 s, MaxIDD: OFF(0.00%), MaxMDD: OFF(0.00%), Capital: 0.0, Profit Boudary: 0.00%, Calc Span: 0 mins, Risk Scale: 0.00
+[2023.10.17 16:34:48 - warning] No session configured for INE.ec
+[2023.10.17 16:34:48 - warning] No session configured for SHFE.ao
+[2023.10.17 16:34:48 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.17 16:34:48 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.17 16:34:48 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.17 16:34:48 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.17 16:34:48 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.17 16:34:48 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.17 16:34:48 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.17 16:34:48 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.17 16:34:48 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.17 16:34:48 - info ] Running mode: Production
+[2023.10.17 16:34:48 - info ] 44 fee templates loaded
+[2023.10.17 16:34:48 - info ] [RiskControl] Params inited, Checking frequency: 0 s, MaxIDD: OFF(0.00%), MaxMDD: OFF(0.00%), Capital: 0.0, Profit Boudary: 0.00%, Calc Span: 0 mins, Risk Scale: 0.00
+[2023.10.17 16:34:52 - info ] Resampled bars will be aligned by section:  not
+[2023.10.17 16:34:52 - debug] Storage initialized @ /
+[2023.10.17 16:34:52 - info ] No adjusting factor file configured, loading skipped
+[2023.10.17 16:34:52 - info ] Data manager initialized
+[2023.10.17 17:35:59 - warning] No session configured for INE.ec
+[2023.10.17 17:35:59 - warning] No session configured for SHFE.ao
+[2023.10.17 17:35:59 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.17 17:35:59 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.17 17:35:59 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.17 17:35:59 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.17 17:35:59 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.17 17:35:59 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.17 17:35:59 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.17 17:35:59 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.17 17:35:59 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.17 17:35:59 - info ] Running mode: Production
+[2023.10.17 17:35:59 - info ] 44 fee templates loaded
+[2023.10.17 17:35:59 - info ] [RiskControl] Params inited, Checking frequency: 0 s, MaxIDD: OFF(0.00%), MaxMDD: OFF(0.00%), Capital: 0.0, Profit Boudary: 0.00%, Calc Span: 0 mins, Risk Scale: 0.00
+[2023.10.17 17:35:59 - info ] Resampled bars will be aligned by section:  not
+[2023.10.17 17:35:59 - debug] Storage initialized @ /
+[2023.10.17 17:35:59 - info ] No adjusting factor file configured, loading skipped
+[2023.10.17 17:35:59 - info ] Data manager initialized
+[2023.10.17 17:36:03 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.17 17:38:37 - warning] No session configured for INE.ec
+[2023.10.17 17:38:37 - warning] No session configured for SHFE.ao
+[2023.10.17 17:38:37 - info ] Commodities configuration file ./common/commodities.json loaded
+[2023.10.17 17:38:37 - warning] Commodity INE.ec not found, contract ec2404 skipped
+[2023.10.17 17:38:37 - warning] Commodity INE.ec not found, contract ec2408 skipped
+[2023.10.17 17:38:37 - warning] Commodity INE.ec not found, contract ec2410 skipped
+[2023.10.17 17:38:37 - warning] Commodity INE.ec not found, contract ec2412 skipped
+[2023.10.17 17:38:37 - warning] Commodity INE.ec not found, contract ec2406 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2404 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2311 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2402 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2405 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2403 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2401 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2408 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2312 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2406 skipped
+[2023.10.17 17:38:37 - warning] Commodity SHFE.ao not found, contract ao2407 skipped
+[2023.10.17 17:38:37 - info ] Contracts configuration file ./common/contracts.json loaded, 6 exchanges
+[2023.10.17 17:38:37 - info ] Trading enviroment initialzied with engine: CTA
+[2023.10.17 17:38:37 - info ] Running mode: Production
+[2023.10.17 17:38:37 - info ] 44 fee templates loaded
+[2023.10.17 17:38:37 - info ] [RiskControl] Params inited, Checking frequency: 0 s, MaxIDD: OFF(0.00%), MaxMDD: OFF(0.00%), Capital: 0.0, Profit Boudary: 0.00%, Calc Span: 0 mins, Risk Scale: 0.00
+[2023.10.17 17:38:37 - info ] Resampled bars will be aligned by section:  not
+[2023.10.17 17:38:37 - debug] Storage initialized @ /
+[2023.10.17 17:38:37 - info ] No adjusting factor file configured, loading skipped
+[2023.10.17 17:38:37 - info ] Data manager initialized
+[2023.10.17 17:38:41 - info ] Reading parser config from tdparsers.yaml...
+[2023.10.17 17:38:49 - info ] [parser1] Parser module E:/wondertrader/src/WtRunner/parsers/ParserUDP.dll loaded
